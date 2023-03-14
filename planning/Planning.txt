@@ -1,0 +1,95 @@
+3/13
+
+- find data sets
+
+- set up repo
+
+- create file structure
+
+    - root
+        - lib
+            - controllers
+                * nintendo.js
+                * ps.js
+                * steam.js
+                * xbox.js
+            - db
+                * nintendo.json
+                * ps.json
+                * steam.json
+                * xbox.json
+                * connection.js
+                * seed.js
+            - models
+                * Nintendo.js
+                * PS.js
+                * Steam.js
+                * Xbox.js
+            - routes
+                * index.js
+                * nintendoRoute.js
+                * psRoute.js
+                * steamRoute.js
+                * xboxRoute.js
+            * index.js
+        - planning
+            * Planning.txt
+        - .gitignore
+            * node_modules
+            * package-lock.json
+
+- import json data
+
+- install dependencies
+    - express
+    - mongoose
+    - nodemon
+    - npm
+
+- connections.js
+
+    -//mongoose
+
+- seed.js
+
+    Collection
+        .deleteMany({})
+        .then(() => {.insertMany(collectionData)})
+        .then(mongoose.disconnect)
+        .then(()=> console.log("done"))
+        .catch(()=> console.log("err", err))
+
+- seed data
+
+    $ node lib/db/seed.js
+
+- models
+    - schema
+
+        const schema = new Schema({
+            name/title: String,
+            platform: String,
+            releaseDate: String,
+            developers: String,
+            genre: String
+            link: String
+        })
+
+- routes
+    - index.js
+        - express.Router()
+        - use
+
+    - route.js
+        - get
+        - put
+        - post
+        - delete
+
+- lib/index.js
+    - const app = express()
+    - app.use(router)
+    - app.listen(3000, () => {})
+
+
+3/14
