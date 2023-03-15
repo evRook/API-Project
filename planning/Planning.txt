@@ -67,11 +67,11 @@
     - schema
 
         const schema = new Schema({
-            name/title: String,
+            name: String,
             platform: String,
             releaseDate: String,
             developers: String,
-            genre: String
+            genres: String
             link: String
         })
 
