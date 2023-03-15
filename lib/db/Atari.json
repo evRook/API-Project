@@ -1,0 +1,3892 @@
+[
+  {
+    "": 0,
+    "name": "Acid Drop",
+    "platform": "Atari",
+    "developers": "Dennis Kiss[11]",
+    "publisher": "Salu Ltd",
+    "releaseDate": 1992,
+    "genres": "Strategy",
+    "notes": "PAL-only; puzzle game; last game released. Atari 2600s stopped being manufactured"
+  },
+  {
+    "": 1,
+    "name": "The Activision Decathlon",
+    "platform": "Atari",
+    "developers": "Activision (David Crane)",
+    "publisher": "Activision",
+    "releaseDate": 1983,
+    "genres": "Sports",
+    "notes": ""
+  },
+  {
+    "": 2,
+    "name": "Adventures of Tron",
+    "platform": "Atari",
+    "developers": "APh Technological Consulting",
+    "publisher": "M Network",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 3,
+    "name": "Airlock",
+    "platform": "Atari",
+    "developers": "Data Age",
+    "publisher": "Data Age",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 4,
+    "name": "Air Raid",
+    "platform": "Atari",
+    "developers": "MenAVision",
+    "publisher": "MenAVision",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": "Only 13 copies known to exist[citation needed]"
+  },
+  {
+    "": 5,
+    "name": "Air Raiders",
+    "platform": "Atari",
+    "developers": "APh Technological Consulting",
+    "publisher": "M Network",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 6,
+    "name": "Alien",
+    "platform": "Atari",
+    "developers": "20th Century Fox",
+    "publisher": "20th Century Fox",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 7,
+    "name": "Alien's Return",
+    "platform": "Atari",
+    "developers": "Gem International Corporation",
+    "publisher": "Home Vision",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": "Primarily a PAL release. Released in NTSC format as E.T Go Home"
+  },
+  {
+    "": 8,
+    "name": "Amidar",
+    "platform": "Atari",
+    "developers": "Parker Brothers",
+    "publisher": "Parker Brothers",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": "licensed by Konami"
+  },
+  {
+    "": 9,
+    "name": "Armor Ambush",
+    "platform": "Atari",
+    "developers": "APh Technological Consulting",
+    "publisher": "M Network",
+    "releaseDate": 1982,
+    "genres": "Action, Racing / Driving",
+    "notes": "conversion of Intellivision Armor Battle"
+  },
+  {
+    "": 10,
+    "name": "Artillery Duel/Chuck Norris Superkicks",
+    "platform": "Atari",
+    "developers": "Xonox",
+    "publisher": "Xonox",
+    "releaseDate": 1983,
+    "genres": "Strategy",
+    "notes": "double-ended cartridge"
+  },
+  {
+    "": 11,
+    "name": "Artillery Duel/Ghost Manor",
+    "platform": "Atari",
+    "developers": "Xonox",
+    "publisher": "Xonox",
+    "releaseDate": 1983,
+    "genres": "Strategy",
+    "notes": "double-ended cartridge"
+  },
+  {
+    "": 12,
+    "name": "Artillery Duel/Spike's Peak",
+    "platform": "Atari",
+    "developers": "Xonox",
+    "publisher": "Xonox",
+    "releaseDate": 1983,
+    "genres": "Strategy",
+    "notes": "double-ended cartridge"
+  },
+  {
+    "": 13,
+    "name": "Artillery Duel",
+    "platform": "Atari",
+    "developers": "Action Graphics",
+    "publisher": "Xonox",
+    "releaseDate": 1983,
+    "genres": "Strategy",
+    "notes": ""
+  },
+  {
+    "": 14,
+    "name": "Assault",
+    "platform": "Atari",
+    "developers": "Bomb",
+    "publisher": "Bomb",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 15,
+    "name": "Astroblast",
+    "platform": "Atari",
+    "developers": "APh Technological Consulting",
+    "publisher": "M Network",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": "conversion of Intellivision Astrosmash"
+  },
+  {
+    "": 16,
+    "name": "Atlantis",
+    "platform": "Atari",
+    "developers": "Imagic",
+    "publisher": "Imagic",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 17,
+    "name": "Atlantis II",
+    "platform": "Atari",
+    "developers": "Imagic",
+    "publisher": "Imagic",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 18,
+    "name": "Bachelor Party",
+    "platform": "Atari",
+    "developers": "Mystique",
+    "publisher": "PlayAround",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 19,
+    "name": "Bachelorette Party",
+    "platform": "Atari",
+    "developers": "Mystique",
+    "publisher": "PlayAround",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": "Released as a 2-in-1 cart with Burning Desire"
+  },
+  {
+    "": 20,
+    "name": "Bank Heist",
+    "platform": "Atari",
+    "developers": "20th Century Fox",
+    "publisher": "20th Century Fox",
+    "releaseDate": 1983,
+    "genres": "Action, Racing / Driving",
+    "notes": ""
+  },
+  {
+    "": 21,
+    "name": "Barnstorming",
+    "platform": "Atari",
+    "developers": "Activision",
+    "publisher": "Activision",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 22,
+    "name": "Base Attack",
+    "platform": "Atari",
+    "developers": "Home Vision",
+    "publisher": "Home Vision",
+    "releaseDate": "1983?",
+    "genres": "shooter",
+    "notes": "Original version of Z-Tack"
+  },
+  {
+    "": 23,
+    "name": "Beamrider",
+    "platform": "Atari",
+    "developers": "Cheshire Engineering",
+    "publisher": "Activision",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 24,
+    "name": "Beany Bopper",
+    "platform": "Atari",
+    "developers": "Sirius Software",
+    "publisher": "20th Century Fox",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 25,
+    "name": "Beat Em and Eat Em",
+    "platform": "Atari",
+    "developers": "Mystique",
+    "publisher": "PlayAround",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 26,
+    "name": "Berenstain Bears",
+    "platform": "Atari",
+    "developers": "Coleco",
+    "publisher": "Coleco",
+    "releaseDate": 1983,
+    "genres": "Educational",
+    "notes": "Kid Vid Voice Module required to function"
+  },
+  {
+    "": 27,
+    "name": "Bermuda",
+    "platform": "Atari",
+    "developers": "Suntek?",
+    "publisher": "Suntek/Quelle/Rainbow Vision/Hertie",
+    "releaseDate": 1983,
+    "genres": "Shooter",
+    "notes": "Hack of River Raid"
+  },
+  {
+    "": 28,
+    "name": "Bermuda Triangle",
+    "platform": "Atari",
+    "developers": "Data Age",
+    "publisher": "Data Age",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 29,
+    "name": "Birthday Mania",
+    "platform": "Atari",
+    "developers": "Tokar, Robert Anthony",
+    "publisher": "Personal Games Company",
+    "releaseDate": 1984,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 30,
+    "name": "Blue Print",
+    "platform": "Atari",
+    "developers": "CBS Electronics",
+    "publisher": "CBS Electronics",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": "licensed by Bally Midway"
+  },
+  {
+    "": 31,
+    "name": "BMX Airmaster",
+    "platform": "Atari",
+    "developers": "Sculptured Software",
+    "publisher": "TNT Games",
+    "releaseDate": 1989,
+    "genres": "Action, Sports",
+    "notes": ""
+  },
+  {
+    "": 32,
+    "name": "Bobby Is Going Home",
+    "platform": "Atari",
+    "developers": "Bit Corporation",
+    "publisher": "CCE",
+    "releaseDate": 1983,
+    "genres": "",
+    "notes": ""
+  },
+  {
+    "": 33,
+    "name": "Boing!",
+    "platform": "Atari",
+    "developers": "First Star Software",
+    "publisher": "First Star Software",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 34,
+    "name": "Boxing",
+    "platform": "Atari",
+    "developers": "Activision (Bob Whitehead)",
+    "publisher": "Activision",
+    "releaseDate": 1980,
+    "genres": "Sports",
+    "notes": ""
+  },
+  {
+    "": 35,
+    "name": "Bridge",
+    "platform": "Atari",
+    "developers": "Activision (Larry Kaplan)",
+    "publisher": "Activision",
+    "releaseDate": 1980,
+    "genres": "Strategy",
+    "notes": ""
+  },
+  {
+    "": 36,
+    "name": "Buck Rogers: Planet of Zoom",
+    "platform": "Atari",
+    "developers": "Sega",
+    "publisher": "Sega",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 37,
+    "name": "Bugs",
+    "platform": "Atari",
+    "developers": "Data Age",
+    "publisher": "Data Age",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 38,
+    "name": "Bumper Bash",
+    "platform": "Atari",
+    "developers": "Spectravision",
+    "publisher": "Spectravision",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 39,
+    "name": "Bump 'n' Jump",
+    "platform": "Atari",
+    "developers": "Mattel Electronics",
+    "publisher": "M Network",
+    "releaseDate": 1983,
+    "genres": "Action, Racing / Driving",
+    "notes": "licensed by Data East USA"
+  },
+  {
+    "": 40,
+    "name": "BurgerTime",
+    "platform": "Atari",
+    "developers": "Mattel Electronics",
+    "publisher": "M Network",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": "licensed by Data East USA"
+  },
+  {
+    "": 41,
+    "name": "Burning Desire",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "PlayAround",
+    "releaseDate": 1983,
+    "genres": "",
+    "notes": "Released as a 2-in-1 cart with Bachelorette Party"
+  },
+  {
+    "": 42,
+    "name": "Busy Police",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "Zellers",
+    "releaseDate": 1983,
+    "genres": "",
+    "notes": "unlicensed reproduction of Keystone Kapers[12]"
+  },
+  {
+    "": 43,
+    "name": "Cakewalk",
+    "platform": "Atari",
+    "developers": "CommaVid",
+    "publisher": "CommaVid",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 44,
+    "name": "California Games",
+    "platform": "Atari",
+    "developers": "Epyx",
+    "publisher": "Epyx",
+    "releaseDate": 1987,
+    "genres": "Sports",
+    "notes": ""
+  },
+  {
+    "": 45,
+    "name": "Carnival",
+    "platform": "Atari",
+    "developers": "Woodside Design Associates",
+    "publisher": "Coleco",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 46,
+    "name": "Cathouse Blues",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "PlayAround",
+    "releaseDate": 1982,
+    "genres": "",
+    "notes": ""
+  },
+  {
+    "": 47,
+    "name": "Challenge",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "Funvision",
+    "releaseDate": "",
+    "genres": "",
+    "notes": "Released in NTSC format by Zellers"
+  },
+  {
+    "": 48,
+    "name": "Challenge of Nexar",
+    "platform": "Atari",
+    "developers": "Sirius Software",
+    "publisher": "Spectravision",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 49,
+    "name": "Chase the Chuck Wagon",
+    "platform": "Atari",
+    "developers": "TMQ Software",
+    "publisher": "Spectravision",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 50,
+    "name": "Checkers",
+    "platform": "Atari",
+    "developers": "Activision (Alan Miller)",
+    "publisher": "Activision",
+    "releaseDate": 1980,
+    "genres": "Strategy",
+    "notes": ""
+  },
+  {
+    "": 51,
+    "name": "China Syndrome",
+    "platform": "Atari",
+    "developers": "Spectravision",
+    "publisher": "Spectravision",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 52,
+    "name": "Chopper Command",
+    "platform": "Atari",
+    "developers": "Activision (Bob Whitehead)",
+    "publisher": "Activision",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 53,
+    "name": "Chuck Norris Superkicks/Ghost Manor",
+    "platform": "Atari",
+    "developers": "Xonox",
+    "publisher": "Xonox",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": "double-ended cartridge"
+  },
+  {
+    "": 54,
+    "name": "Chuck Norris Superkicks/Spike's Peak",
+    "platform": "Atari",
+    "developers": "Xonox",
+    "publisher": "Xonox",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": "double-ended cartridge"
+  },
+  {
+    "": 55,
+    "name": "Chuck Norris Superkicks",
+    "platform": "Atari",
+    "developers": "Xonox",
+    "publisher": "Xonox",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 56,
+    "name": "Coconuts",
+    "platform": "Atari",
+    "developers": "Telesys",
+    "publisher": "Telesys",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 57,
+    "name": "Commando",
+    "platform": "Atari",
+    "developers": "Imagineering",
+    "publisher": "Activision",
+    "releaseDate": 1988,
+    "genres": "Action",
+    "notes": "licensed by Data East USA"
+  },
+  {
+    "": 58,
+    "name": "Commando Raid",
+    "platform": "Atari",
+    "developers": "James Wickstead Design Associates",
+    "publisher": "US Games",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 59,
+    "name": "Communist Mutants from Space (cassette)",
+    "platform": "Atari",
+    "developers": "Starpath",
+    "publisher": "Starpath",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 60,
+    "name": "Condor Attack",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "Ultravision",
+    "releaseDate": 1983,
+    "genres": "",
+    "notes": ""
+  },
+  {
+    "": 61,
+    "name": "Confrontation",
+    "platform": "Atari",
+    "developers": "Answer Software",
+    "publisher": "Answer Software",
+    "releaseDate": 1983,
+    "genres": "Strategy",
+    "notes": "Only originally available directly from Answer Software for a short time."
+  },
+  {
+    "": 62,
+    "name": "Congo Bongo",
+    "platform": "Atari",
+    "developers": "Sega",
+    "publisher": "Sega",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 63,
+    "name": "Cosmic Ark",
+    "platform": "Atari",
+    "developers": "Imagic (Rob Fulop)",
+    "publisher": "Imagic",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 64,
+    "name": "Cosmic Commuter",
+    "platform": "Atari",
+    "developers": "Activision",
+    "publisher": "Activision",
+    "releaseDate": 1984,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 65,
+    "name": "Cosmic Corridor",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "Zimag",
+    "releaseDate": 1983,
+    "genres": "",
+    "notes": "NTSC release of Bit Corporation's Space Tunnel"
+  },
+  {
+    "": 66,
+    "name": "Cosmic Creeps",
+    "platform": "Atari",
+    "developers": "Telesys",
+    "publisher": "Telesys",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 67,
+    "name": "Cosmic Free Fire",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "Action Hi-Tech",
+    "releaseDate": "",
+    "genres": "",
+    "notes": "PAL-format[13]"
+  },
+  {
+    "": 68,
+    "name": "Cosmic Swarm",
+    "platform": "Atari",
+    "developers": "CommaVid",
+    "publisher": "CommaVid",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 69,
+    "name": "Crab Control",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "Action Hi-Tech",
+    "releaseDate": "",
+    "genres": "",
+    "notes": "PAL-format[13]"
+  },
+  {
+    "": 70,
+    "name": "Crackpots",
+    "platform": "Atari",
+    "developers": "Activision",
+    "publisher": "Activision",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 71,
+    "name": "Crash Dive",
+    "platform": "Atari",
+    "developers": "20th Century Fox",
+    "publisher": "20th Century Fox",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 72,
+    "name": "Creature Strike",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "Home Entertainment Suppliers",
+    "releaseDate": 1992,
+    "genres": "Shooter",
+    "notes": "Released as part of a \"2 PAK SPECIAL\"[14]"
+  },
+  {
+    "": 73,
+    "name": "Cross Force",
+    "platform": "Atari",
+    "developers": "Spectravision",
+    "publisher": "Spectravision",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 74,
+    "name": "Cruise Missile",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "Froggo",
+    "releaseDate": 1987,
+    "genres": "",
+    "notes": "Same game as Exocet released by Panda"
+  },
+  {
+    "": 75,
+    "name": "Crypts of Chaos",
+    "platform": "Atari",
+    "developers": "20th Century Fox",
+    "publisher": "20th Century Fox",
+    "releaseDate": 1982,
+    "genres": "Adventure, Role-Playing (RPG)",
+    "notes": ""
+  },
+  {
+    "": 76,
+    "name": "Cubicolor",
+    "platform": "Atari",
+    "developers": "Rob Fulop",
+    "publisher": "",
+    "releaseDate": 1982,
+    "genres": "Strategy",
+    "notes": ""
+  },
+  {
+    "": 77,
+    "name": "Custer's Revenge",
+    "platform": "Atari",
+    "developers": "Mystique",
+    "publisher": "Mystique",
+    "releaseDate": 1982,
+    "genres": "Adult, Western",
+    "notes": ""
+  },
+  {
+    "": 78,
+    "name": "Dancing Plate",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "Bit Corporation",
+    "releaseDate": 1982,
+    "genres": "",
+    "notes": "PAL release"
+  },
+  {
+    "": 79,
+    "name": "Dark Cavern",
+    "platform": "Atari",
+    "developers": "APh Technological Consulting",
+    "publisher": "M Network",
+    "releaseDate": 1982,
+    "genres": "",
+    "notes": "conversion of Intellivision Night Stalker"
+  },
+  {
+    "": 80,
+    "name": "Deadly Discs",
+    "platform": "Atari",
+    "developers": "APh Technological Consulting",
+    "publisher": "Telegames",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": "reissue of M Network's Tron: Deadly Discs"
+  },
+  {
+    "": 81,
+    "name": "Deadly Duck",
+    "platform": "Atari",
+    "developers": "Sirius Software",
+    "publisher": "20th Century Fox",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 82,
+    "name": "Death Trap",
+    "platform": "Atari",
+    "developers": "Avalon Hill",
+    "publisher": "Avalon Hill",
+    "releaseDate": 1983,
+    "genres": "Action, Strategy",
+    "notes": ""
+  },
+  {
+    "": 83,
+    "name": "Demolition Herby",
+    "platform": "Atari",
+    "developers": "Telesys",
+    "publisher": "Telesys",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 84,
+    "name": "Demon Attack",
+    "platform": "Atari",
+    "developers": "Imagic (Rob Fulop)",
+    "publisher": "Imagic",
+    "releaseDate": 1982,
+    "genres": "Fixed shooter",
+    "notes": ""
+  },
+  {
+    "": 85,
+    "name": "Dice Puzzle",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "Panda",
+    "releaseDate": 1983,
+    "genres": "",
+    "notes": ""
+  },
+  {
+    "": 86,
+    "name": "Dishaster",
+    "platform": "Atari",
+    "developers": "Zimag",
+    "publisher": "Zimag",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": "Zimag's NTSC release of Bit Corporation's Dancing Plate"
+  },
+  {
+    "": 87,
+    "name": "Dolphin",
+    "platform": "Atari",
+    "developers": "Activision",
+    "publisher": "Activision",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 88,
+    "name": "Donkey Kong",
+    "platform": "Atari",
+    "developers": "Imaginative Systems Software",
+    "publisher": "Coleco",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": "licensed by Nintendo Co., Ltd; reissued by Atari in 1988 (CX-26143)"
+  },
+  {
+    "": 89,
+    "name": "Donkey Kong Junior",
+    "platform": "Atari",
+    "developers": "Woodside Design Associates",
+    "publisher": "Coleco",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": "licensed by Nintendo Co., Ltd; reissued by Atari in 1988 (CX-26144)"
+  },
+  {
+    "": 90,
+    "name": "Double Dragon",
+    "platform": "Atari",
+    "developers": "Imagineering",
+    "publisher": "Activision",
+    "releaseDate": 1989,
+    "genres": "Action",
+    "notes": "licensed by Technōs Japan"
+  },
+  {
+    "": 91,
+    "name": "Dragon Treasure",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "Zellers",
+    "releaseDate": 1981,
+    "genres": "",
+    "notes": "unlicensed reproduction of Dragonfire[12]"
+  },
+  {
+    "": 92,
+    "name": "Dragonfire",
+    "platform": "Atari",
+    "developers": "Imagic (Bob Smith)",
+    "publisher": "Imagic",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 93,
+    "name": "Dragonstomper (cassette)",
+    "platform": "Atari",
+    "developers": "Starpath",
+    "publisher": "Starpath",
+    "releaseDate": 1982,
+    "genres": "Role-Playing (RPG)",
+    "notes": ""
+  },
+  {
+    "": 94,
+    "name": "Dragster",
+    "platform": "Atari",
+    "developers": "Activision (David Crane)",
+    "publisher": "Activision",
+    "releaseDate": 1980,
+    "genres": "Racing / Driving",
+    "notes": ""
+  },
+  {
+    "": 95,
+    "name": "Dungeon Master",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "Home Entertainment Suppliers",
+    "releaseDate": 1992,
+    "genres": "Action, Adventure",
+    "notes": "Released as part of a \"2 pak special\"[14]"
+  },
+  {
+    "": 96,
+    "name": "Earth Dies Screaming",
+    "platform": "Atari",
+    "developers": "Sirius Software",
+    "publisher": "20th Century Fox",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 97,
+    "name": "Earth Attack",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "Zellers",
+    "releaseDate": 1983,
+    "genres": "",
+    "notes": "unlicensed reproduction of Defender[12]"
+  },
+  {
+    "": 98,
+    "name": "Eddy Langfinger, der Museumsdieb",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "Quelle",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": "PAL release"
+  },
+  {
+    "": 99,
+    "name": "Eggomania",
+    "platform": "Atari",
+    "developers": "James Wickstead Design Associates",
+    "publisher": "US Games",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 100,
+    "name": "Eli's Ladder",
+    "platform": "Atari",
+    "developers": "Simage",
+    "publisher": "Simage",
+    "releaseDate": 1982,
+    "genres": "Educational",
+    "notes": ""
+  },
+  {
+    "": 101,
+    "name": "Encounter at L-5",
+    "platform": "Atari",
+    "developers": "Data Age",
+    "publisher": "Data Age",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 102,
+    "name": "Enduro",
+    "platform": "Atari",
+    "developers": "Activision",
+    "publisher": "Activision",
+    "releaseDate": 1983,
+    "genres": "Racing / Driving",
+    "notes": ""
+  },
+  {
+    "": 103,
+    "name": "Entombed",
+    "platform": "Atari",
+    "developers": "Western Technologies",
+    "publisher": "US Games",
+    "releaseDate": 1983,
+    "genres": "Action, Strategy",
+    "notes": "Researchers going through the game code in the 2010s have been unable to figure out how the game's maze-generating algorithm managed to consistently generate playable mazes. The original coder says he got it from another programmer who wrote it while drunk."
+  },
+  {
+    "": 104,
+    "name": "Escape from the Mindmaster (cassette)",
+    "platform": "Atari",
+    "developers": "Starpath",
+    "publisher": "Starpath",
+    "releaseDate": 1982,
+    "genres": "Adventure",
+    "notes": ""
+  },
+  {
+    "": 105,
+    "name": "Espial",
+    "platform": "Atari",
+    "developers": "Orca Corporation",
+    "publisher": "Tigervision",
+    "releaseDate": 1984,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 106,
+    "name": "Exocet",
+    "platform": "Atari",
+    "developers": "Panda",
+    "publisher": "Panda",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": "Same game as Cruise Missile released by Froggo"
+  },
+  {
+    "": 107,
+    "name": "Exocet Missile",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "John Sands",
+    "releaseDate": "",
+    "genres": "",
+    "notes": "PAL release"
+  },
+  {
+    "": 108,
+    "name": "Extra Terrestrials",
+    "platform": "Atari",
+    "developers": "Herman Quast",
+    "publisher": "Skill Screen Games",
+    "releaseDate": 1984,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 109,
+    "name": "Fantastic Voyage",
+    "platform": "Atari",
+    "developers": "Sirius Software",
+    "publisher": "20th Century Fox",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 110,
+    "name": "Farmer Dan",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "Zellers",
+    "releaseDate": "",
+    "genres": "",
+    "notes": "unlicensed reproduction of Gopher[12]"
+  },
+  {
+    "": 111,
+    "name": "Fast Eddie",
+    "platform": "Atari",
+    "developers": "Sirius Software",
+    "publisher": "20th Century Fox",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 112,
+    "name": "Fast Food",
+    "platform": "Atari",
+    "developers": "Telesys",
+    "publisher": "Telesys",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 113,
+    "name": "Fathom",
+    "platform": "Atari",
+    "developers": "Imagic (Rob Fulop)",
+    "publisher": "Imagic",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 114,
+    "name": "Fighter Pilot",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "Activision",
+    "releaseDate": "",
+    "genres": "",
+    "notes": "PAL release of Tomcat: The F-14 Fighter Simulator"
+  },
+  {
+    "": 115,
+    "name": "Final Approach",
+    "platform": "Atari",
+    "developers": "Apollo",
+    "publisher": "Apollo",
+    "releaseDate": 1982,
+    "genres": "Simulation, Strategy",
+    "notes": ""
+  },
+  {
+    "": 116,
+    "name": "Fireball (cassette)",
+    "platform": "Atari",
+    "developers": "Starpath",
+    "publisher": "Starpath",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 117,
+    "name": "Fire Fighter",
+    "platform": "Atari",
+    "developers": "Imagic (Brad Stewart)",
+    "publisher": "Imagic",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 118,
+    "name": "Fire Fly",
+    "platform": "Atari",
+    "developers": "Mythicon",
+    "publisher": "Mythicon",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 119,
+    "name": "Fisher Price",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "CCE",
+    "releaseDate": 1983,
+    "genres": "",
+    "notes": "Same game as Aquatak, Sea Hunt and Scuba Diver"
+  },
+  {
+    "": 120,
+    "name": "Fishing Derby",
+    "platform": "Atari",
+    "developers": "Activision (David Crane)",
+    "publisher": "Activision",
+    "releaseDate": 1980,
+    "genres": "Action, Sports",
+    "notes": ""
+  },
+  {
+    "": 121,
+    "name": "Flash Gordon",
+    "platform": "Atari",
+    "developers": "Sirius Software",
+    "publisher": "20th Century Fox",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 122,
+    "name": "Frankenstein's Monster",
+    "platform": "Atari",
+    "developers": "Data Age",
+    "publisher": "Data Age",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 123,
+    "name": "Freeway",
+    "platform": "Atari",
+    "developers": "Activision (David Crane)",
+    "publisher": "Activision",
+    "releaseDate": 1981,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 124,
+    "name": "Frogger",
+    "platform": "Atari",
+    "developers": "APh Technological Consulting",
+    "publisher": "Parker Brothers",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 125,
+    "name": "Frogs and Flies",
+    "platform": "Atari",
+    "developers": "APh Technological Consulting",
+    "publisher": "M Network",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": "conversion of Intellivision Frog Bog"
+  },
+  {
+    "": 126,
+    "name": "The Official Frogger (cassette)",
+    "platform": "Atari",
+    "developers": "Starpath",
+    "publisher": "",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 127,
+    "name": "Frogger II: Threeedeep!",
+    "platform": "Atari",
+    "developers": "Parker Brothers",
+    "publisher": "Parker Brothers",
+    "releaseDate": 1984,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 128,
+    "name": "Front Line",
+    "platform": "Atari",
+    "developers": "Individeo",
+    "publisher": "Coleco",
+    "releaseDate": 1984,
+    "genres": "Action",
+    "notes": "licensed by Taito"
+  },
+  {
+    "": 129,
+    "name": "Frostbite",
+    "platform": "Atari",
+    "developers": "Activision",
+    "publisher": "Activision",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 130,
+    "name": "Gamma-Attack",
+    "platform": "Atari",
+    "developers": "Gammation",
+    "publisher": "Gammation",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": "Only one copy known to exist. It was listed on eBay for $500,000 but never sold."
+  },
+  {
+    "": 131,
+    "name": "Gangster Alley",
+    "platform": "Atari",
+    "developers": "Spectravision",
+    "publisher": "Spectravision",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 132,
+    "name": "Gas Hog",
+    "platform": "Atari",
+    "developers": "Spectravision",
+    "publisher": "Spectravision",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 133,
+    "name": "Gauntlet",
+    "platform": "Atari",
+    "developers": "Answer Software",
+    "publisher": "Answer Software",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 134,
+    "name": "Ghostbusters",
+    "platform": "Atari",
+    "developers": "Activision (David Crane)",
+    "publisher": "Activision",
+    "releaseDate": 1985,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 135,
+    "name": "Ghostbusters II",
+    "platform": "Atari",
+    "developers": "Activision",
+    "publisher": "Salu Ltd",
+    "releaseDate": "1990/1992",
+    "genres": "Action",
+    "notes": "PAL-only"
+  },
+  {
+    "": 136,
+    "name": "Ghost Manor/Spike's Peak",
+    "platform": "Atari",
+    "developers": "Xonox",
+    "publisher": "Xonox",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": "double-ended cartridge"
+  },
+  {
+    "": 137,
+    "name": "Ghost Manor",
+    "platform": "Atari",
+    "developers": "Xonox",
+    "publisher": "Xonox",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 138,
+    "name": "G.I. Joe: Cobra Strike",
+    "platform": "Atari",
+    "developers": "Parker Brothers",
+    "publisher": "Parker Brothers",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 139,
+    "name": "Gigolo",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "PlayAround",
+    "releaseDate": 1982,
+    "genres": "",
+    "notes": "Released as a 2-in-1 cart with Bachelor Party"
+  },
+  {
+    "": 140,
+    "name": "Glacier Patrol",
+    "platform": "Atari",
+    "developers": "VSS",
+    "publisher": "Telegames",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 141,
+    "name": "Glib",
+    "platform": "Atari",
+    "developers": "Qualtronic Devices",
+    "publisher": "Selchow and Righter",
+    "releaseDate": 1983,
+    "genres": "Strategy",
+    "notes": ""
+  },
+  {
+    "": 142,
+    "name": "Gopher",
+    "platform": "Atari",
+    "developers": "James Wickstead Design Associates",
+    "publisher": "US Games",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 143,
+    "name": "Gorf",
+    "platform": "Atari",
+    "developers": "Roklan Corporation",
+    "publisher": "CBS Electronics",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": "licensed by Bally Midway"
+  },
+  {
+    "": 144,
+    "name": "Grand Prix",
+    "platform": "Atari",
+    "developers": "Activision (David Crane)",
+    "publisher": "Activision",
+    "releaseDate": 1982,
+    "genres": "Racing / Driving",
+    "notes": ""
+  },
+  {
+    "": 145,
+    "name": "Great Escape",
+    "platform": "Atari",
+    "developers": "Bomb",
+    "publisher": "Bomb",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 146,
+    "name": "Guardian",
+    "platform": "Atari",
+    "developers": "Apollo",
+    "publisher": "Apollo",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 147,
+    "name": "Gyruss",
+    "platform": "Atari",
+    "developers": "Roklan Corporation",
+    "publisher": "Parker Brothers",
+    "releaseDate": 1984,
+    "genres": "Action",
+    "notes": "licensed by Konami"
+  },
+  {
+    "": 148,
+    "name": "Halloween",
+    "platform": "Atari",
+    "developers": "VSS",
+    "publisher": "Wizard Video",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 149,
+    "name": "Harbor Escape",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "Panda",
+    "releaseDate": 1983,
+    "genres": "",
+    "notes": ""
+  },
+  {
+    "": 150,
+    "name": "H.E.R.O.",
+    "platform": "Atari",
+    "developers": "Activision",
+    "publisher": "Activision",
+    "releaseDate": 1984,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 151,
+    "name": "I Want My Mommy",
+    "platform": "Atari",
+    "developers": "Zimag",
+    "publisher": "Zimag",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": "NTSC release of Bit Corporation's Open Sesame"
+  },
+  {
+    "": 152,
+    "name": "Ice Hockey",
+    "platform": "Atari",
+    "developers": "Activision (Alan Miller)",
+    "publisher": "Activision",
+    "releaseDate": 1981,
+    "genres": "Action, Sports",
+    "notes": ""
+  },
+  {
+    "": 153,
+    "name": "Inca Gold",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "Zellers",
+    "releaseDate": 1982,
+    "genres": "",
+    "notes": "Zeller's NTSC release of Funvision's Inca Gold"
+  },
+  {
+    "": 154,
+    "name": "Infiltrate",
+    "platform": "Atari",
+    "developers": "Apollo",
+    "publisher": "Apollo",
+    "releaseDate": 1982,
+    "genres": "Action, Strategy",
+    "notes": ""
+  },
+  {
+    "": 155,
+    "name": "International Soccer",
+    "platform": "Atari",
+    "developers": "APh Technological Consulting",
+    "publisher": "M Network",
+    "releaseDate": 1982,
+    "genres": "Sports",
+    "notes": ""
+  },
+  {
+    "": 156,
+    "name": "James Bond 007",
+    "platform": "Atari",
+    "developers": "On Time Software",
+    "publisher": "Parker Brothers",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 157,
+    "name": "Jawbreaker",
+    "platform": "Atari",
+    "developers": "On-Line Systems",
+    "publisher": "Tigervision",
+    "releaseDate": 1981,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 158,
+    "name": "Journey Escape",
+    "platform": "Atari",
+    "developers": "Data Age",
+    "publisher": "Data Age",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 159,
+    "name": "Jungle Fever",
+    "platform": "Atari",
+    "developers": "PlayAround",
+    "publisher": "PlayAround",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": "Released as a 2-in-1 cart with Knight on the Town"
+  },
+  {
+    "": 160,
+    "name": "Kaboom!",
+    "platform": "Atari",
+    "developers": "Activision (Larry Kaplan, David Crane)",
+    "publisher": "Activision",
+    "releaseDate": 1981,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 161,
+    "name": "Karate",
+    "platform": "Atari",
+    "developers": "Ultravision",
+    "publisher": "Ultravision",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 162,
+    "name": "Keystone Kapers",
+    "platform": "Atari",
+    "developers": "Activision",
+    "publisher": "Activision",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 163,
+    "name": "Killer Satellites (cassette)",
+    "platform": "Atari",
+    "developers": "Starpath",
+    "publisher": "Starpath",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 164,
+    "name": "King Kong",
+    "platform": "Atari",
+    "developers": "Software Electronics",
+    "publisher": "Tigervision",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 165,
+    "name": "Knight on the Town",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "PlayAround",
+    "releaseDate": 1982,
+    "genres": "",
+    "notes": "Released as a 2-in-1 cart with Jungle Fever"
+  },
+  {
+    "": 166,
+    "name": "Kool-Aid Man",
+    "platform": "Atari",
+    "developers": "Mattel Electronics",
+    "publisher": "M Network",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 167,
+    "name": "Kung-Fu Master",
+    "platform": "Atari",
+    "developers": "Imagineering",
+    "publisher": "Activision",
+    "releaseDate": 1987,
+    "genres": "Action",
+    "notes": "licensed by Data East USA"
+  },
+  {
+    "": 168,
+    "name": "Lady in Wading",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "PlayAround",
+    "releaseDate": 1982,
+    "genres": "",
+    "notes": "Released as a 2-in-1 cart with Beat 'Em & Eat 'Em"
+  },
+  {
+    "": 169,
+    "name": "Laser Blast",
+    "platform": "Atari",
+    "developers": "Activision (David Crane)",
+    "publisher": "Activision",
+    "releaseDate": 1981,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 170,
+    "name": "Laser Gates",
+    "platform": "Atari",
+    "developers": "Imagic, VentureVision",
+    "publisher": "Imagic",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 171,
+    "name": "Laser Volley",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "Zellers",
+    "releaseDate": 1983,
+    "genres": "",
+    "notes": "unlicensed reproduction of Laser Gates[12]"
+  },
+  {
+    "": 172,
+    "name": "Lochjaw",
+    "platform": "Atari",
+    "developers": "Apollo",
+    "publisher": "Apollo",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": "Later released by Apollo as Shark Attack"
+  },
+  {
+    "": 173,
+    "name": "Lock 'n' Chase",
+    "platform": "Atari",
+    "developers": "APh Technological Consulting",
+    "publisher": "M Network",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": "licensed by Data East USA."
+  },
+  {
+    "": 174,
+    "name": "London Blitz",
+    "platform": "Atari",
+    "developers": "Avalon Hill",
+    "publisher": "Avalon Hill",
+    "releaseDate": 1983,
+    "genres": "Strategy",
+    "notes": ""
+  },
+  {
+    "": 175,
+    "name": "Lost Luggage",
+    "platform": "Atari",
+    "developers": "Apollo",
+    "publisher": "Apollo",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 176,
+    "name": "M.A.D.",
+    "platform": "Atari",
+    "developers": "Western Technologies",
+    "publisher": "US Games",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 177,
+    "name": "MagiCard",
+    "platform": "Atari",
+    "developers": "CommaVid",
+    "publisher": "CommaVid",
+    "releaseDate": 1981,
+    "genres": "",
+    "notes": ""
+  },
+  {
+    "": 178,
+    "name": "Malagai",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "Answer Software",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 179,
+    "name": "Mangia",
+    "platform": "Atari",
+    "developers": "Spectravision",
+    "publisher": "Spectravision",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 180,
+    "name": "Marauder",
+    "platform": "Atari",
+    "developers": "On-Line Systems",
+    "publisher": "Tigervision",
+    "releaseDate": 1982,
+    "genres": "",
+    "notes": ""
+  },
+  {
+    "": 181,
+    "name": "Marine Wars",
+    "platform": "Atari",
+    "developers": "Digivision",
+    "publisher": "Konami",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": "PAL version released by Gakken."
+  },
+  {
+    "": 182,
+    "name": "M*A*S*H",
+    "platform": "Atari",
+    "developers": "20th Century Fox",
+    "publisher": "20th Century Fox",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 183,
+    "name": "Master Builder",
+    "platform": "Atari",
+    "developers": "Spectravision",
+    "publisher": "Spectravision",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 184,
+    "name": "Masters of the Universe: The Power of He-Man",
+    "platform": "Atari",
+    "developers": "Mattel Electronics",
+    "publisher": "M Network",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 185,
+    "name": "MegaBoy",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "Dynacom",
+    "releaseDate": 1990,
+    "genres": "Educational",
+    "notes": "The cartridge, the only known 64k Atari 2600 game, came with a Brazilian portable console also called Megaboy.[15]"
+  },
+  {
+    "": 186,
+    "name": "Mega Force",
+    "platform": "Atari",
+    "developers": "20th Century Fox",
+    "publisher": "20th Century Fox",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 187,
+    "name": "Megamania",
+    "platform": "Atari",
+    "developers": "Activision",
+    "publisher": "Activision",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 188,
+    "name": "Miner 2049er",
+    "platform": "Atari",
+    "developers": "Big Five Software",
+    "publisher": "Tigervision",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 189,
+    "name": "Miner 2049er II",
+    "platform": "Atari",
+    "developers": "Big Five Software",
+    "publisher": "Tigervision",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 190,
+    "name": "Mines of Minos",
+    "platform": "Atari",
+    "developers": "CommaVid",
+    "publisher": "CommaVid",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 191,
+    "name": "Missile Control",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "Video Gems",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": "PAL-format[16]"
+  },
+  {
+    "": 192,
+    "name": "Mission 3000 A.D.",
+    "platform": "Atari",
+    "developers": "Bit Corporation",
+    "publisher": "Bit Corporation",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 193,
+    "name": "Mission Survive",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "Video Gems",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": "PAL-format[16]"
+  },
+  {
+    "": 194,
+    "name": "Mogul Maniac",
+    "platform": "Atari",
+    "developers": "Video Soft",
+    "publisher": "Amiga",
+    "releaseDate": 1983,
+    "genres": "Action, Simulation, Sports",
+    "notes": ""
+  },
+  {
+    "": 195,
+    "name": "Montezuma's Revenge: Starring Panama Joe",
+    "platform": "Atari",
+    "developers": "James Wickstead Design Associates",
+    "publisher": "Parker Brothers",
+    "releaseDate": 1984,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 196,
+    "name": "Moonsweeper",
+    "platform": "Atari",
+    "developers": "Imagic (Bob Smith)",
+    "publisher": "Imagic",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 197,
+    "name": "Motocross",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "Quelle",
+    "releaseDate": 1983,
+    "genres": "Racing / Driving, Sports",
+    "notes": ""
+  },
+  {
+    "": 198,
+    "name": "Motocross Racer",
+    "platform": "Atari",
+    "developers": "Xonox",
+    "publisher": "Xonox",
+    "releaseDate": 1984,
+    "genres": "Racing / Driving",
+    "notes": ""
+  },
+  {
+    "": 199,
+    "name": "Mountain King",
+    "platform": "Atari",
+    "developers": "VSS",
+    "publisher": "CBS Electronics",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 200,
+    "name": "Mouse Trap",
+    "platform": "Atari",
+    "developers": "James Wickstead Design Associates",
+    "publisher": "Coleco",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": "licensed by Exidy; reissued by Atari in 1988 (CX-26146)"
+  },
+  {
+    "": 201,
+    "name": "Mr. Do!",
+    "platform": "Atari",
+    "developers": "Individeo",
+    "publisher": "Coleco",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": "licensed by Universal Co., Ltd."
+  },
+  {
+    "": 202,
+    "name": "Mr. Do's Castle",
+    "platform": "Atari",
+    "developers": "Parker Brothers",
+    "publisher": "Parker Brothers",
+    "releaseDate": 1984,
+    "genres": "Action",
+    "notes": "licensed by Universal Co., Ltd."
+  },
+  {
+    "": 203,
+    "name": "Mr. Postman",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "Bit Corporation",
+    "releaseDate": 1983,
+    "genres": "",
+    "notes": ""
+  },
+  {
+    "": 204,
+    "name": "The Music Machine",
+    "platform": "Atari",
+    "developers": "Christian Software Development",
+    "publisher": "Sparrow, HomeComputer Software",
+    "releaseDate": 1983,
+    "genres": "Action, Educational",
+    "notes": ""
+  },
+  {
+    "": 205,
+    "name": "My Golf",
+    "platform": "Atari",
+    "developers": "Imagineering (company)",
+    "publisher": "HES",
+    "releaseDate": 1990,
+    "genres": "",
+    "notes": "PAL-only"
+  },
+  {
+    "": 206,
+    "name": "Name This Game",
+    "platform": "Atari",
+    "developers": "James Wickstead Design Associates",
+    "publisher": "US Games",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 207,
+    "name": "Nightmare",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "Sancho / Tang's Electronic Co.",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": "Panda released this game as Stunt Man"
+  },
+  {
+    "": 208,
+    "name": "Night Stalker",
+    "platform": "Atari",
+    "developers": "M Network",
+    "publisher": "Telegames",
+    "releaseDate": 1989,
+    "genres": "Action",
+    "notes": "PAL release of Dark Cavern"
+  },
+  {
+    "": 209,
+    "name": "No Escape!",
+    "platform": "Atari",
+    "developers": "Imagic",
+    "publisher": "Imagic",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 210,
+    "name": "Nuts",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "Technovision",
+    "releaseDate": 1983,
+    "genres": "",
+    "notes": "PAL-only"
+  },
+  {
+    "": 211,
+    "name": "Ocean City Defender",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "Zellers",
+    "releaseDate": "",
+    "genres": "",
+    "notes": "unlicensed reproduction of Atlantis[12]"
+  },
+  {
+    "": 212,
+    "name": "Off Your Rocker",
+    "platform": "Atari",
+    "developers": "Amiga",
+    "publisher": "Amiga",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 213,
+    "name": "Oink!",
+    "platform": "Atari",
+    "developers": "Activision (Mike Lorenzen)",
+    "publisher": "Activision",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 214,
+    "name": "Omega Race",
+    "platform": "Atari",
+    "developers": "CBS Electronics",
+    "publisher": "CBS Electronics",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": "licensed by Bally Midway"
+  },
+  {
+    "": 215,
+    "name": "Open Sesame",
+    "platform": "Atari",
+    "developers": "Bit Corporation",
+    "publisher": "Bit Corporation",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": "PAL release"
+  },
+  {
+    "": 216,
+    "name": "Out of Control",
+    "platform": "Atari",
+    "developers": "Avalon Hill",
+    "publisher": "Avalon Hill",
+    "releaseDate": 1983,
+    "genres": "Action, Racing / Driving",
+    "notes": ""
+  },
+  {
+    "": 217,
+    "name": "Pac-Kong",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "Funvision",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": "A later PAL release of Funvision's Inca Gold"
+  },
+  {
+    "": 218,
+    "name": "Panda Chase",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "Home Vision",
+    "releaseDate": 1983,
+    "genres": "",
+    "notes": "PAL-only"
+  },
+  {
+    "": 219,
+    "name": "Parachute",
+    "platform": "Atari",
+    "developers": "Gem International Corporation",
+    "publisher": "Home Vision",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": "PAL-only"
+  },
+  {
+    "": 220,
+    "name": "Paris Attack",
+    "platform": "Atari",
+    "developers": "unknown",
+    "publisher": "Starsoft",
+    "releaseDate": 1982,
+    "genres": "Action / Shooter",
+    "notes": "PAL-only"
+  },
+  {
+    "": 221,
+    "name": "Party Mix (cassette)",
+    "platform": "Atari",
+    "developers": "Starpath",
+    "publisher": "Starpath",
+    "releaseDate": 1983,
+    "genres": "Action, Racing / Driving",
+    "notes": ""
+  },
+  {
+    "": 222,
+    "name": "Pete Rose Baseball",
+    "platform": "Atari",
+    "developers": "Imagineering",
+    "publisher": "Absolute Entertainment",
+    "releaseDate": 1988,
+    "genres": "Sports",
+    "notes": ""
+  },
+  {
+    "": 223,
+    "name": "Phantom Tank",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "Bit Corporation",
+    "releaseDate": 1983,
+    "genres": "",
+    "notes": "PAL release"
+  },
+  {
+    "": 224,
+    "name": "Phantom-Panzer",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "Quelle",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": "Quelle's PAL release of Bit Corporation's Phantom Tank"
+  },
+  {
+    "": 225,
+    "name": "Phaser Patrol (cassette)",
+    "platform": "Atari",
+    "developers": "Starpath",
+    "publisher": "Starpath",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 226,
+    "name": "Philly Flasher",
+    "platform": "Atari",
+    "developers": "Mystique, PlayAround",
+    "publisher": "Mystique",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": "Released as a 2-in-1 cart with Cathouse Blues"
+  },
+  {
+    "": 227,
+    "name": "Pick 'n Pile",
+    "platform": "Atari",
+    "developers": "Ubisoft",
+    "publisher": "Salu Ltd",
+    "releaseDate": 1990,
+    "genres": "Strategy",
+    "notes": "PAL-only"
+  },
+  {
+    "": 228,
+    "name": "Picnic",
+    "platform": "Atari",
+    "developers": "Western Technologies",
+    "publisher": "US Games",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 229,
+    "name": "Piece o' Cake",
+    "platform": "Atari",
+    "developers": "Western Technologies",
+    "publisher": "US Games",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 230,
+    "name": "Pinball",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "Zellers",
+    "releaseDate": "",
+    "genres": "Pinball",
+    "notes": "unlicensed reproduction of Video Pinball[12]"
+  },
+  {
+    "": 231,
+    "name": "Piraten-Schiff",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "Spectravision",
+    "releaseDate": "",
+    "genres": "",
+    "notes": "PAL release of Gas Hog"
+  },
+  {
+    "": 232,
+    "name": "Pitfall!",
+    "platform": "Atari",
+    "developers": "Activision (David Crane)",
+    "publisher": "Activision",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 233,
+    "name": "Pitfall II: Lost Caverns",
+    "platform": "Atari",
+    "developers": "Activision (David Crane)",
+    "publisher": "Activision",
+    "releaseDate": 1984,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 234,
+    "name": "Planet Patrol",
+    "platform": "Atari",
+    "developers": "Spectravision",
+    "publisher": "Spectravision",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 235,
+    "name": "Planeten Patrouile",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "Spectravision",
+    "releaseDate": "",
+    "genres": "",
+    "notes": "PAL release of Planet Patrol"
+  },
+  {
+    "": 236,
+    "name": "Plaque Attack",
+    "platform": "Atari",
+    "developers": "Activision",
+    "publisher": "Activision",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 237,
+    "name": "Polaris",
+    "platform": "Atari",
+    "developers": "Tigervision",
+    "publisher": "Tigervision",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": "licensed by Taito"
+  },
+  {
+    "": 238,
+    "name": "Pooyan",
+    "platform": "Atari",
+    "developers": "Konami",
+    "publisher": "Konami",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": "PAL version released by Gakken."
+  },
+  {
+    "": 239,
+    "name": "Popeye",
+    "platform": "Atari",
+    "developers": "Parker Brothers",
+    "publisher": "Parker Brothers",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": "licensed by Nintendo"
+  },
+  {
+    "": 240,
+    "name": "Porky's",
+    "platform": "Atari",
+    "developers": "Dunhill Electronic Media, Lazer Microsystems",
+    "publisher": "20th Century Fox",
+    "releaseDate": 1983,
+    "genres": "Adventure",
+    "notes": ""
+  },
+  {
+    "": 241,
+    "name": "Pressure Cooker",
+    "platform": "Atari",
+    "developers": "Activision",
+    "publisher": "Activision",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 242,
+    "name": "Private Eye",
+    "platform": "Atari",
+    "developers": "Activision (Bob Whitehead)",
+    "publisher": "Activision",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 243,
+    "name": "Pyramid War",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "S.S.",
+    "releaseDate": 1983,
+    "genres": "",
+    "notes": "PAL release"
+  },
+  {
+    "": 244,
+    "name": "Q*bert",
+    "platform": "Atari",
+    "developers": "James Wickstead Design Associates",
+    "publisher": "Parker Brothers",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": "Reissued by Atari in 1988 (CX-26150)"
+  },
+  {
+    "": 245,
+    "name": "Q*bert's Qubes",
+    "platform": "Atari",
+    "developers": "Mylstar Electronics",
+    "publisher": "Parker Brothers",
+    "releaseDate": 1984,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 246,
+    "name": "Quest for Quintana Roo",
+    "platform": "Atari",
+    "developers": "VSS",
+    "publisher": "Sunrise",
+    "releaseDate": 1983,
+    "genres": "Action, Adventure",
+    "notes": ""
+  },
+  {
+    "": 247,
+    "name": "Quick Step",
+    "platform": "Atari",
+    "developers": "Imagic",
+    "publisher": "Imagic",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 248,
+    "name": "Rabbit Transit (cassette)",
+    "platform": "Atari",
+    "developers": "Starpath",
+    "publisher": "Starpath",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 249,
+    "name": "Racquetball",
+    "platform": "Atari",
+    "developers": "Apollo",
+    "publisher": "Apollo",
+    "releaseDate": 1981,
+    "genres": "Action, Sports",
+    "notes": ""
+  },
+  {
+    "": 250,
+    "name": "Radar",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "Zellers",
+    "releaseDate": 1983,
+    "genres": "",
+    "notes": "unlicensed reproduction of Cruise Missile[12]"
+  },
+  {
+    "": 251,
+    "name": "Raft Rider",
+    "platform": "Atari",
+    "developers": "Western Technologies",
+    "publisher": "US Games",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 252,
+    "name": "Ram It",
+    "platform": "Atari",
+    "developers": "Telesys",
+    "publisher": "Telesys",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 253,
+    "name": "Rampage",
+    "platform": "Atari",
+    "developers": "Bob Polaro",
+    "publisher": "Activision",
+    "releaseDate": 1989,
+    "genres": "Action",
+    "notes": "licensed by Bally Midway."
+  },
+  {
+    "": 254,
+    "name": "Reactor",
+    "platform": "Atari",
+    "developers": "D. Gottlieb & Co.",
+    "publisher": "Parker Brothers",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 255,
+    "name": "Red Sea Crossing",
+    "platform": "Atari",
+    "developers": "Steve Schustack",
+    "publisher": "Inspirational Video Concepts",
+    "releaseDate": 1983,
+    "genres": "",
+    "notes": "Only available through mail order from a magazine. 100 copies were apparently produced but only 2 have been found.[17]"
+  },
+  {
+    "": 256,
+    "name": "Rescue Terra 1",
+    "platform": "Atari",
+    "developers": "VentureVision",
+    "publisher": "VentureVision",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 257,
+    "name": "Revenge of the Beefsteak Tomatoes",
+    "platform": "Atari",
+    "developers": "20th Century Fox",
+    "publisher": "20th Century Fox",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 258,
+    "name": "Riddle of the Sphinx",
+    "platform": "Atari",
+    "developers": "Imagic (Bob Smith)",
+    "publisher": "Imagic",
+    "releaseDate": 1982,
+    "genres": "Action, Adventure",
+    "notes": ""
+  },
+  {
+    "": 259,
+    "name": "River Patrol",
+    "platform": "Atari",
+    "developers": "Orca Corporation",
+    "publisher": "Tigervision",
+    "releaseDate": 1984,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 260,
+    "name": "River Raid",
+    "platform": "Atari",
+    "developers": "Activision (Carol Shaw)",
+    "publisher": "Activision",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 261,
+    "name": "River Raid II",
+    "platform": "Atari",
+    "developers": "Imagineering",
+    "publisher": "Activision",
+    "releaseDate": 1988,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 262,
+    "name": "Robin Hood/Sir Lancelot - The Joust",
+    "platform": "Atari",
+    "developers": "Computer Magic, Ltd.",
+    "publisher": "Xonox",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": "double-ended cartridge"
+  },
+  {
+    "": 263,
+    "name": "Robin Hood",
+    "platform": "Atari",
+    "developers": "Xonox",
+    "publisher": "Xonox",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 264,
+    "name": "Robot Commando Raid",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "VidTec",
+    "releaseDate": 1982,
+    "genres": "",
+    "notes": ""
+  },
+  {
+    "": 265,
+    "name": "Robot Tank",
+    "platform": "Atari",
+    "developers": "Activision (Alan Miller)",
+    "publisher": "Activision",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 266,
+    "name": "Roc 'N Rope",
+    "platform": "Atari",
+    "developers": "Coleco",
+    "publisher": "Coleco",
+    "releaseDate": 1984,
+    "genres": "Action",
+    "notes": "licensed by Konami"
+  },
+  {
+    "": 267,
+    "name": "Room of Doom",
+    "platform": "Atari",
+    "developers": "CommaVid",
+    "publisher": "CommaVid",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 268,
+    "name": "Save Our Ship",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "Technovision",
+    "releaseDate": 1983,
+    "genres": "",
+    "notes": "PAL release"
+  },
+  {
+    "": 269,
+    "name": "Scuba Diver",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "Panda",
+    "releaseDate": 1983,
+    "genres": "",
+    "notes": ""
+  },
+  {
+    "": 270,
+    "name": "Sea Hawk",
+    "platform": "Atari",
+    "developers": "Froggo",
+    "publisher": "Froggo",
+    "releaseDate": 1988,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 271,
+    "name": "Seahawk",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "Sancho (Tang's Electronic Co.)",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 272,
+    "name": "Seamonster",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "Puzzy / Bit Corporation",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 273,
+    "name": "Seaquest",
+    "platform": "Atari",
+    "developers": "Activision",
+    "publisher": "Activision",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 274,
+    "name": "Sea Hunt",
+    "platform": "Atari",
+    "developers": "Froggo",
+    "publisher": "Froggo",
+    "releaseDate": 1987,
+    "genres": "Action",
+    "notes": "Froggo's release of Panda's Scuba Diver"
+  },
+  {
+    "": 275,
+    "name": "Shark Attack",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "Apollo",
+    "releaseDate": 1982,
+    "genres": "",
+    "notes": "A re-release of Lochjaw, which has subtle differences"
+  },
+  {
+    "": 276,
+    "name": "Shootin' Gallery",
+    "platform": "Atari",
+    "developers": "Imagic",
+    "publisher": "Imagic",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 277,
+    "name": "Shuttle Orbiter",
+    "platform": "Atari",
+    "developers": "Avalon Hill",
+    "publisher": "Avalon Hill",
+    "releaseDate": 1983,
+    "genres": "Action, Simulation",
+    "notes": ""
+  },
+  {
+    "": 278,
+    "name": "Sir Lancelot",
+    "platform": "Atari",
+    "developers": "Xonox",
+    "publisher": "Xonox",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 279,
+    "name": "Skate Boardin': A Radical Adventure",
+    "platform": "Atari",
+    "developers": "Imagineering",
+    "publisher": "Absolute Entertainment",
+    "releaseDate": 1987,
+    "genres": "Action, Sports",
+    "notes": ""
+  },
+  {
+    "": 280,
+    "name": "Skeet Shoot",
+    "platform": "Atari",
+    "developers": "Apollo",
+    "publisher": "Apollo",
+    "releaseDate": 1981,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 281,
+    "name": "Skiing",
+    "platform": "Atari",
+    "developers": "Activision (Bob Whitehead)",
+    "publisher": "Activision",
+    "releaseDate": 1980,
+    "genres": "Sports",
+    "notes": ""
+  },
+  {
+    "": 282,
+    "name": "Sky Jinks",
+    "platform": "Atari",
+    "developers": "Activision (Bob Whitehead)",
+    "publisher": "Activision",
+    "releaseDate": 1982,
+    "genres": "Racing / Driving",
+    "notes": ""
+  },
+  {
+    "": 283,
+    "name": "Sky Skipper",
+    "platform": "Atari",
+    "developers": "Parker Brothers",
+    "publisher": "Parker Brothers",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 284,
+    "name": "Smurf: Rescue in Gargamel's Castle",
+    "platform": "Atari",
+    "developers": "James Wickstead Design Associates",
+    "publisher": "Coleco",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 285,
+    "name": "The Smurfs Save the Day[18]",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "Coleco",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": "Kid Vid Voice Module required to function"
+  },
+  {
+    "": 286,
+    "name": "Snail Against Squirrel",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "Bit Corporation",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": "PAL release. Released in NTSC format as Squirrel"
+  },
+  {
+    "": 287,
+    "name": "Sneak 'N Peek",
+    "platform": "Atari",
+    "developers": "James Wickstead Design Associates",
+    "publisher": "US Games",
+    "releaseDate": 1982,
+    "genres": "Simulation",
+    "notes": ""
+  },
+  {
+    "": 288,
+    "name": "Solar Fox",
+    "platform": "Atari",
+    "developers": "CBS Electronics",
+    "publisher": "CBS Electronics",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": "licensed by Bally Midway"
+  },
+  {
+    "": 289,
+    "name": "Solar Storm",
+    "platform": "Atari",
+    "developers": "Imagic",
+    "publisher": "Imagic",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 290,
+    "name": "Sorcerer",
+    "platform": "Atari",
+    "developers": "Mythicon",
+    "publisher": "Mythicon",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 291,
+    "name": "Space Adventure",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "Zellers",
+    "releaseDate": 1981,
+    "genres": "",
+    "notes": "Zellers' release of 20th Century Fox's Flash Gordon"
+  },
+  {
+    "": 292,
+    "name": "Space Attack",
+    "platform": "Atari",
+    "developers": "APh Technological Consulting",
+    "publisher": "M Network",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 293,
+    "name": "Space Canyon",
+    "platform": "Atari",
+    "developers": "Apollo",
+    "publisher": "Panda",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": "Panda's release of Apollo's Space Cavern"
+  },
+  {
+    "": 294,
+    "name": "Space Cavern",
+    "platform": "Atari",
+    "developers": "Apollo",
+    "publisher": "Apollo",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 295,
+    "name": "Spacechase",
+    "platform": "Atari",
+    "developers": "Apollo",
+    "publisher": "Apollo",
+    "releaseDate": 1981,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 296,
+    "name": "Space Grid",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "Action Hi-Tech",
+    "releaseDate": "",
+    "genres": "",
+    "notes": "PAL-format[13]"
+  },
+  {
+    "": 297,
+    "name": "Space Jockey",
+    "platform": "Atari",
+    "developers": "James Wickstead Design Associates",
+    "publisher": "US Games",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 298,
+    "name": "Spacemaster X-7",
+    "platform": "Atari",
+    "developers": "Sirius Software",
+    "publisher": "20th Century Fox",
+    "releaseDate": 1983,
+    "genres": "Action, Strategy",
+    "notes": ""
+  },
+  {
+    "": 299,
+    "name": "Space Shuttle: A Journey into Space",
+    "platform": "Atari",
+    "developers": "Activision",
+    "publisher": "Activision",
+    "releaseDate": 1983,
+    "genres": "Simulation",
+    "notes": ""
+  },
+  {
+    "": 300,
+    "name": "Spiderdroid",
+    "platform": "Atari",
+    "developers": "Froggo",
+    "publisher": "Froggo",
+    "releaseDate": 1987,
+    "genres": "Action",
+    "notes": "Froggo's release of Parker Brothers' Amidar"
+  },
+  {
+    "": 301,
+    "name": "Spider Fighter",
+    "platform": "Atari",
+    "developers": "Activision",
+    "publisher": "Activision",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 302,
+    "name": "Spider-Man",
+    "platform": "Atari",
+    "developers": "Parker Brothers",
+    "publisher": "Parker Brothers",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 303,
+    "name": "Spider Maze",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "K-Tel Vision",
+    "releaseDate": 1982,
+    "genres": "",
+    "notes": "K-Tel Vision's NTSC release of Funvision's Inca Gold"
+  },
+  {
+    "": 304,
+    "name": "Spike's Peak",
+    "platform": "Atari",
+    "developers": "Xonox",
+    "publisher": "Xonox",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 305,
+    "name": "Spitfire Attack",
+    "platform": "Atari",
+    "developers": "Milton Bradley",
+    "publisher": "Milton Bradley",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 306,
+    "name": "Springer",
+    "platform": "Atari",
+    "developers": "Orca Corporation",
+    "publisher": "Tigervision",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 307,
+    "name": "Spy Hunter",
+    "platform": "Atari",
+    "developers": "Sega",
+    "publisher": "Sega",
+    "releaseDate": 1984,
+    "genres": "Action, Racing / Driving",
+    "notes": "licensed by Bally Midway"
+  },
+  {
+    "": 308,
+    "name": "Squeeze Box",
+    "platform": "Atari",
+    "developers": "James Wickstead Design Associates",
+    "publisher": "US Games",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 309,
+    "name": "Sssnake",
+    "platform": "Atari",
+    "developers": "Data Age",
+    "publisher": "Data Age",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 310,
+    "name": "Stampede",
+    "platform": "Atari",
+    "developers": "Activision (Bob Whitehead)",
+    "publisher": "Activision",
+    "releaseDate": 1981,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 311,
+    "name": "Star Fox",
+    "platform": "Atari",
+    "developers": "Mythicon",
+    "publisher": "Mythicon",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 312,
+    "name": "Stargunner",
+    "platform": "Atari",
+    "developers": "Telesys",
+    "publisher": "Telesys",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 313,
+    "name": "Starmaster",
+    "platform": "Atari",
+    "developers": "Activision (Alan Miller)",
+    "publisher": "Activision",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 314,
+    "name": "Star Strike",
+    "platform": "Atari",
+    "developers": "Mattel Electronics",
+    "publisher": "M Network",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": "conversion of Intellivision Star Strike"
+  },
+  {
+    "": 315,
+    "name": "Star Trek: Strategic Operations Simulator",
+    "platform": "Atari",
+    "developers": "Sega",
+    "publisher": "Sega",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 316,
+    "name": "Star Voyager",
+    "platform": "Atari",
+    "developers": "Imagic (Bob Smith)",
+    "publisher": "Imagic",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 317,
+    "name": "Star Wars: The Arcade Game",
+    "platform": "Atari",
+    "developers": "James Wickstead Design Associates",
+    "publisher": "Parker Brothers",
+    "releaseDate": 1984,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 318,
+    "name": "Star Wars: Jedi Arena",
+    "platform": "Atari",
+    "developers": "Parker Brothers",
+    "publisher": "Parker Brothers",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 319,
+    "name": "Star Wars Return of the Jedi: Death Star Battle",
+    "platform": "Atari",
+    "developers": "Parker Brothers",
+    "publisher": "Parker Brothers",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 320,
+    "name": "Star Wars: The Empire Strikes Back",
+    "platform": "Atari",
+    "developers": "Parker Brothers",
+    "publisher": "Parker Brothers",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 321,
+    "name": "Steeplechase",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "Video Gems",
+    "releaseDate": 1983,
+    "genres": "Action, Sports",
+    "notes": "PAL-format[16]"
+  },
+  {
+    "": 322,
+    "name": "Strategy X",
+    "platform": "Atari",
+    "developers": "Konami",
+    "publisher": "Konami",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": "PAL version released by Gakken."
+  },
+  {
+    "": 323,
+    "name": "Strawberry Shortcake: Musical Match-ups",
+    "platform": "Atari",
+    "developers": "Parker Brothers",
+    "publisher": "Parker Brothers",
+    "releaseDate": 1983,
+    "genres": "Strategy",
+    "notes": ""
+  },
+  {
+    "": 324,
+    "name": "Stronghold",
+    "platform": "Atari",
+    "developers": "CommaVid",
+    "publisher": "CommaVid",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 325,
+    "name": "Stunt Man",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "Panda",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": "Panda's NTSC release of Sancho's Nightmare"
+  },
+  {
+    "": 326,
+    "name": "Sub-Scan",
+    "platform": "Atari",
+    "developers": "Sega",
+    "publisher": "Sega",
+    "releaseDate": 1983,
+    "genres": "Strategy",
+    "notes": "Sega's release of its Deep Scan arcade game"
+  },
+  {
+    "": 327,
+    "name": "Subterranea",
+    "platform": "Atari",
+    "developers": "Imagic",
+    "publisher": "Imagic",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 328,
+    "name": "Suicide Mission (cassette)",
+    "platform": "Atari",
+    "developers": "Starpath",
+    "publisher": "Starpath",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 329,
+    "name": "Summer Games",
+    "platform": "Atari",
+    "developers": "Epyx",
+    "publisher": "Epyx",
+    "releaseDate": 1987,
+    "genres": "Action, Sports",
+    "notes": ""
+  },
+  {
+    "": 330,
+    "name": "Super Baumeister",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "Spectravision",
+    "releaseDate": "",
+    "genres": "",
+    "notes": "PAL release of Master Builder"
+  },
+  {
+    "": 331,
+    "name": "Super Challenge Baseball",
+    "platform": "Atari",
+    "developers": "APh Technological Consulting",
+    "publisher": "M Network",
+    "releaseDate": 1982,
+    "genres": "Sports",
+    "notes": "reissued by Telegames in 1988"
+  },
+  {
+    "": 332,
+    "name": "Super Challenge Football",
+    "platform": "Atari",
+    "developers": "APh Technological Consulting",
+    "publisher": "M Network",
+    "releaseDate": 1982,
+    "genres": "Sports",
+    "notes": "reissued by Telegames in 1988"
+  },
+  {
+    "": 333,
+    "name": "Super Cobra",
+    "platform": "Atari",
+    "developers": "Roklan Corporation",
+    "publisher": "Parker Brothers",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": "licensed by Konami"
+  },
+  {
+    "": 334,
+    "name": "Surfer's Paradise: But Danger Below!",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "Video Gems",
+    "releaseDate": 1983,
+    "genres": "Action, Sports",
+    "notes": "PAL-format[16]"
+  },
+  {
+    "": 335,
+    "name": "Survival Island (cassette)",
+    "platform": "Atari",
+    "developers": "Starpath",
+    "publisher": "Starpath",
+    "releaseDate": 1983,
+    "genres": "Adventure",
+    "notes": ""
+  },
+  {
+    "": 336,
+    "name": "Survival Run",
+    "platform": "Atari",
+    "developers": "Renaissance Technology",
+    "publisher": "Milton Bradley",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 337,
+    "name": "Swedish Erotica: Bachelor Party",
+    "platform": "Atari",
+    "developers": "Mystique",
+    "publisher": "Mystique",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 338,
+    "name": "Swedish Erotica: Beat' Em & Eat 'Em",
+    "platform": "Atari",
+    "developers": "Mystique",
+    "publisher": "Mystique",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 339,
+    "name": "Swedish Erotica: Custer's Revenge",
+    "platform": "Atari",
+    "developers": "Mystique",
+    "publisher": "Mystique",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 340,
+    "name": "Sword of Saros (cassette)",
+    "platform": "Atari",
+    "developers": "Starpath",
+    "publisher": "Starpath",
+    "releaseDate": 1983,
+    "genres": "Adventure, RPG",
+    "notes": ""
+  },
+  {
+    "": 341,
+    "name": "Tac-Scan",
+    "platform": "Atari",
+    "developers": "Sega",
+    "publisher": "Sega",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 342,
+    "name": "Tank Brigade",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "Panda",
+    "releaseDate": 1983,
+    "genres": "",
+    "notes": "Panda's NTSC release of Bit Corporation's Phantom Tank"
+  },
+  {
+    "": 343,
+    "name": "Tank City",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "Action Hi-Tech",
+    "releaseDate": "",
+    "genres": "",
+    "notes": "PAL release of Sega's Thunderground"
+  },
+  {
+    "": 344,
+    "name": "Tanks But No Tanks",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "Zimag",
+    "releaseDate": 1983,
+    "genres": "",
+    "notes": "Zimag's NTSC release of Bit Corporation's Phantom Tank"
+  },
+  {
+    "": 345,
+    "name": "Tapeworm",
+    "platform": "Atari",
+    "developers": "Spectravision",
+    "publisher": "Spectravision",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 346,
+    "name": "Tapper",
+    "platform": "Atari",
+    "developers": "Beck-Tech",
+    "publisher": "Sega",
+    "releaseDate": 1984,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 347,
+    "name": "Task Force",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "Froggo",
+    "releaseDate": 1988,
+    "genres": "",
+    "notes": "Froggo's release of Spectravision's Gangster Alley"
+  },
+  {
+    "": 348,
+    "name": "Tax Avoiders",
+    "platform": "Atari",
+    "developers": "Dunhill Electronics",
+    "publisher": "American Videogame",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 349,
+    "name": "Tennis",
+    "platform": "Atari",
+    "developers": "Activision (Alan Miller)",
+    "publisher": "Activision",
+    "releaseDate": 1981,
+    "genres": "Sports",
+    "notes": ""
+  },
+  {
+    "": 350,
+    "name": "The Texas Chainsaw Massacre",
+    "platform": "Atari",
+    "developers": "VSS",
+    "publisher": "Wizard Video",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 351,
+    "name": "Threshold",
+    "platform": "Atari",
+    "developers": "On-Line Systems",
+    "publisher": "Tigervision",
+    "releaseDate": 1983,
+    "genres": "Fixed shooter",
+    "notes": ""
+  },
+  {
+    "": 352,
+    "name": "Thunderground",
+    "platform": "Atari",
+    "developers": "Sega",
+    "publisher": "Sega",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 353,
+    "name": "Time Pilot",
+    "platform": "Atari",
+    "developers": "Coleco",
+    "publisher": "Coleco",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": "licensed by Konami"
+  },
+  {
+    "": 354,
+    "name": "Time Warp",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "Zellers",
+    "releaseDate": 1983,
+    "genres": "",
+    "notes": "Zellers' NTSC release of Funvision's Time Warp"
+  },
+  {
+    "": 355,
+    "name": "Title Match Pro Wrestling",
+    "platform": "Atari",
+    "developers": "Imagineering",
+    "publisher": "Absolute Entertainment",
+    "releaseDate": 1987,
+    "genres": "Sports",
+    "notes": ""
+  },
+  {
+    "": 356,
+    "name": "Tomarc the Barbarian",
+    "platform": "Atari",
+    "developers": "Xonox",
+    "publisher": "Xonox",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 357,
+    "name": "Tomcat: The F-14 Fighter Simulator AKA Dan Kitchen's Tomcat: The F-14 Fighter Simulator",
+    "platform": "Atari",
+    "developers": "Imagineering (Dan Kitchen)",
+    "publisher": "Absolute Entertainment",
+    "releaseDate": 1988,
+    "genres": "Action, Simulation",
+    "notes": ""
+  },
+  {
+    "": 358,
+    "name": "Tooth Protectors",
+    "platform": "Atari",
+    "developers": "DSD",
+    "publisher": "Camelot",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": "Was only available via mail order from Johnson & Johnson"
+  },
+  {
+    "": 359,
+    "name": "Towering Inferno",
+    "platform": "Atari",
+    "developers": "Western Technologies",
+    "publisher": "US Games",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 360,
+    "name": "Treasure Below",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "Video Gems",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": "PAL-format[16]"
+  },
+  {
+    "": 361,
+    "name": "Trick Shot",
+    "platform": "Atari",
+    "developers": "Imagic",
+    "publisher": "Imagic",
+    "releaseDate": 1983,
+    "genres": "Sports",
+    "notes": ""
+  },
+  {
+    "": 362,
+    "name": "Tron: Deadly Discs",
+    "platform": "Atari",
+    "developers": "APh Technological Consulting",
+    "publisher": "M Network",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": "conversion of Intellivision Tron Deadly Discs"
+  },
+  {
+    "": 363,
+    "name": "Tunnel Runner",
+    "platform": "Atari",
+    "developers": "CBS Electronics",
+    "publisher": "CBS Electronics",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 364,
+    "name": "Turmoil",
+    "platform": "Atari",
+    "developers": "Sirius Software",
+    "publisher": "20th Century Fox",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 365,
+    "name": "Tutankham",
+    "platform": "Atari",
+    "developers": "Parker Brothers",
+    "publisher": "Parker Brothers",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": "licensed by Konami"
+  },
+  {
+    "": 366,
+    "name": "Universal Chaos",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "Telegames",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 367,
+    "name": "Up'n Down",
+    "platform": "Atari",
+    "developers": "Sega",
+    "publisher": "Sega",
+    "releaseDate": 1984,
+    "genres": "Action, Racing / Driving",
+    "notes": ""
+  },
+  {
+    "": 368,
+    "name": "Venture",
+    "platform": "Atari",
+    "developers": "Coleco",
+    "publisher": "Coleco",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": "licensed by Exidy; reissued by Atari in 1988 (CX-26145)"
+  },
+  {
+    "": 369,
+    "name": "Video Jogger",
+    "platform": "Atari",
+    "developers": "Exus Corporation",
+    "publisher": "Exus Corporation",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 370,
+    "name": "Video Life",
+    "platform": "Atari",
+    "developers": "CommaVid",
+    "publisher": "CommaVid",
+    "releaseDate": 1981,
+    "genres": "Life Simulation",
+    "notes": ""
+  },
+  {
+    "": 371,
+    "name": "Video Reflex",
+    "platform": "Atari",
+    "developers": "Exus Corporation",
+    "publisher": "Exus Corporation",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 372,
+    "name": "Vulture Attack",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "K-Tel Vision",
+    "releaseDate": 1982,
+    "genres": "",
+    "notes": "This is K-Tel Vision's release of Ultravision's Condor Attack game program"
+  },
+  {
+    "": 373,
+    "name": "Wabbit",
+    "platform": "Atari",
+    "developers": "Apollo",
+    "publisher": "Apollo",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 374,
+    "name": "Wall Ball",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "Avalon Hill",
+    "releaseDate": 1983,
+    "genres": "",
+    "notes": ""
+  },
+  {
+    "": 375,
+    "name": "Wall-Defender",
+    "platform": "Atari",
+    "developers": "Bomb",
+    "publisher": "Bomb",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 376,
+    "name": "War Zone",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "Action Hi-Tech",
+    "releaseDate": "",
+    "genres": "",
+    "notes": "PAL release of 20th Century Fox's M*A*S*H"
+  },
+  {
+    "": 377,
+    "name": "Warplock",
+    "platform": "Atari",
+    "developers": "Data Age",
+    "publisher": "Data Age",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 378,
+    "name": "Weltraumtunnel (Space Tunnel)",
+    "platform": "Atari",
+    "developers": "BitCorp",
+    "publisher": "BitCorp - Quelle",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": "PAL-Release - Quelle-variant is a BitCorp-clone; also known e.g. as Ataque Laser, Innerspace, Laser Volley, Laser Gate, Laser Gates"
+  },
+  {
+    "": 379,
+    "name": "Wing War",
+    "platform": "Atari",
+    "developers": "Imagic",
+    "publisher": "Imagic",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": "PAL-only"
+  },
+  {
+    "": 380,
+    "name": "Winter Games",
+    "platform": "Atari",
+    "developers": "Action Graphics",
+    "publisher": "Epyx",
+    "releaseDate": 1987,
+    "genres": "Action, Sports",
+    "notes": ""
+  },
+  {
+    "": 381,
+    "name": "Wizard of Wor",
+    "platform": "Atari",
+    "developers": "Roklan Corporation",
+    "publisher": "CBS Electronics",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": "licensed by Bally Midway"
+  },
+  {
+    "": 382,
+    "name": "Word Zapper",
+    "platform": "Atari",
+    "developers": "James Wickstead Design Associates",
+    "publisher": "US Games",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 383,
+    "name": "Worm War I",
+    "platform": "Atari",
+    "developers": "Sirius Software",
+    "publisher": "20th Century Fox",
+    "releaseDate": 1982,
+    "genres": "Shooter",
+    "notes": ""
+  },
+  {
+    "": 384,
+    "name": "X-man",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "Universal Gamex",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": "Adult-themed game unrelated to the X-Men.[19]"
+  },
+  {
+    "": 385,
+    "name": "The Year 1999",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "Rainbow Vision",
+    "releaseDate": 1983,
+    "genres": "Shooter",
+    "notes": "PAL exclusive"
+  },
+  {
+    "": 386,
+    "name": "Z-Tack",
+    "platform": "Atari",
+    "developers": "Bomb",
+    "publisher": "Bomb",
+    "releaseDate": 1983,
+    "genres": "Action",
+    "notes": ""
+  },
+  {
+    "": 387,
+    "name": "Zaxxon",
+    "platform": "Atari",
+    "developers": "Coleco",
+    "publisher": "Coleco",
+    "releaseDate": 1982,
+    "genres": "Action",
+    "notes": "licensed by Sega"
+  },
+  {
+    "": 388,
+    "name": "Zoo Fun",
+    "platform": "Atari",
+    "developers": "",
+    "publisher": "Suntek",
+    "releaseDate": 1983,
+    "genres": "",
+    "notes": "PAL-only"
+  }
+]
