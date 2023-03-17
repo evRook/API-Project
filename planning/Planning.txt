@@ -1,4 +1,4 @@
-3/13
+
 
 - find data sets
 
@@ -8,11 +8,6 @@
 
     - root
         - lib
-            - controllers
-                * nintendo.js
-                * ps.js
-                * steam.js
-                * xbox.js
             - db
                 * nintendo.json
                 * ps.json
@@ -92,4 +87,11 @@
     - app.listen(3000, () => {})
 
 
-3/14
+- swagger/apidoc
+
+- artillery
+
+- auth
+
+- heroku?
+
