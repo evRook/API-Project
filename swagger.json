@@ -78,17 +78,148 @@
             }
         }
     },
-    "/allgames/{name}": {
+    "/allgames/name/{name}": {
         "get": {
-            
+            "summary": "Gets Video Games by Name",
+            "responses": {
+                "200": {
+                    "description": "OK",
+                    "schema":{
+                        "type": "object",
+                        "example": {
+                            "name": "Acid Drop",
+                            "platform": "Atari",
+                            "developers": "Dennis Kiss[11]",
+                            "publisher": "Salu Ltd",
+                            "releaseDate": "1992",
+                            "genres": "Strategy",
+                            "notes": "PAL-only; puzzle game; last game released. Atari 2600s stopped being manufactured"
+                        }
+                    }
+                }  
+            }
+        }
+    },
+    "/allgames/platform/{platform}": {
+        "get": {
+            "summary": "Gets Video Games by Platform",
+            "responses": {
+                "200": {
+                    "description": "OK",
+                    "schema":{
+                        "type": "object",
+                        "example": {
+                            "name": "Acid Drop",
+                            "platform": "Atari",
+                            "developers": "Dennis Kiss[11]",
+                            "publisher": "Salu Ltd",
+                            "releaseDate": "1992",
+                            "genres": "Strategy",
+                            "notes": "PAL-only; puzzle game; last game released. Atari 2600s stopped being manufactured"
+                        }
+                    }
+                }  
+            }
+        }
+    },
+    "/allgames/id/{id}": {
+        "get": {
+            "summary": "Gets Video Games by ID",
+            "responses": {
+                "200": {
+                    "description": "OK",
+                    "schema":{
+                        "type": "object",
+                        "example": {
+                            "name": "Acid Drop",
+                            "platform": "Atari",
+                            "developers": "Dennis Kiss[11]",
+                            "publisher": "Salu Ltd",
+                            "releaseDate": "1992",
+                            "genres": "Strategy",
+                            "notes": "PAL-only; puzzle game; last game released. Atari 2600s stopped being manufactured"
+                        }
+                    }
+                }  
+            }
         }
     },
     "/allgames/{id}": {
         "put": {
-
+            "summary": "Update Existing Entry for All Games",
+            "consumes": "application/json",
+            "parameters":[ 
+                {
+                 "in": "body",
+                 "name": "body",
+                 "schema": {
+                    "type": "object",
+                    "properties": {
+                        "name": {
+                            "type": "String"
+                        },
+                        "platform": {
+                            "type": "String"
+                        },
+                        "developers": {
+                            "type": "String"
+                        },
+                        "releaseDate": {
+                            "type": "String"
+                        },
+                        "genres": {
+                            "type": "String"
+                        }
+                    }
+                 }
+                }
+            ],
+            "responses": {
+                "201": {
+                    "description": "Created",
+                    "schema": {
+                        "type": "object",
+                        "example": {
+                            "name": "Super Smash Bros",
+                            "platform": "Switch",
+                            "releaseDate": "Oct 13, 2020",
+                            "developers": "Nintendo",
+                            "genres": "['Action', 'Fighting', '2D']"
+                        }
+                    }
+                }
+            }
         },
         "delete": {
+            "summary": "Creates New Entry to All Games",
+            "consumes": "application/json",
+            "parameters":[ 
+                {
+                 "in": "path",
 
+                 "required": true,
+                 "schema": {
+                    "type": "interger",
+                    "minimum": 1
+                 },
+                 "description": "Game '_id'"
+                }
+            ],
+            "responses": {
+                "201": {
+                    "description": "Created",
+                    "schema": {
+                        "type": "object",
+                        "example": {
+                            "name": "Super Smash Bros",
+                            "platform": "Switch",
+                            "releaseDate": "Oct 13, 2020",
+                            "developers": "Nintendo",
+                            "genres": "['Action', 'Fighting', '2D']"
+                        }
+                    }
+                }
+            }
         }
     },
     "/atari": {
