@@ -1,0 +1,113 @@
+
+{
+"swagger": "2.0",
+"info": {
+    "version": "1.0.0", 
+    "title": "Video Game API",
+    "description": "My User Project Application API"
+},
+"host": "localhost:3000",
+"basePath": "/",
+"consumes": ["application/json"],
+"produces": ["application/json"],
+"apis": ["${__dirname}/routes/*.js"],
+"paths": {
+    "/allgames": {
+        "get": {
+            "summary": "Lists All Games",
+            "responses": {
+                "200": {
+                    "description": "OK",
+                    "schema":{
+                        "type": "object",
+                        "example": {
+                            "name": "Acid Drop",
+                            "platform": "Atari",
+                            "developers": "Dennis Kiss[11]",
+                            "publisher": "Salu Ltd",
+                            "releaseDate": "1992",
+                            "genres": "Strategy",
+                            "notes": "PAL-only; puzzle game; last game released. Atari 2600s stopped being manufactured"
+                        }
+                    }
+                }  
+            }
+        },
+        "post": {
+           
+        }
+    },
+    "/allgames/{name}": {
+        "get": {
+            
+        }
+    },
+    "/allgames/{id}": {
+        "put": {
+
+        },
+        "delete": {
+
+        }
+    },
+    "/atari": {
+        "get": {
+            "summary": "Lists Atari Games",
+            "responses": {
+                "200": {
+                    "description": "OK",
+                    "schema":{
+                        "type": "object",
+                        "example": {
+                            "name": "Acid Drop",
+                            "platform": "Atari",
+                            "developers": "Dennis Kiss[11]",
+                            "publisher": "Salu Ltd",
+                            "releaseDate": "1992",
+                            "genres": "Strategy",
+                            "notes": "PAL-only; puzzle game; last game released. Atari 2600s stopped being manufactured"
+                        }
+                    }
+                }  
+            }
+        }
+    }
+    },
+  "definitions": {
+    "allgames": {
+      "required": ["name", "_id"],
+      "properties": {
+        "_id": {
+          "type": "integer",
+          "uniqueItems": true
+        },
+        "name": {
+          "type": "string"
+        },
+        "platform": {
+          "type": "string"
+        },
+        "books": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "amount": {
+                "type": "number"
+              }
+            }
+          }
+        },
+        "companies": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  }
+}
