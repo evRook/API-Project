@@ -13,6 +13,7 @@
 "paths": {
     "/allgames": {
         "get": {
+            "tags": ["Paths"],
             "summary": "Lists All Games",
             "responses": {
                 "200": {
@@ -33,6 +34,7 @@
             }
         },
         "post": {
+            "tags": ["Post"],
             "summary": "Creates New Entry to All Games",
             "consumes": "application/json",
             "parameters":[ 
@@ -80,6 +82,7 @@
     },
     "/allgames/name/{name}": {
         "get": {
+            "tags": ["Paths"],
             "summary": "Gets Video Games by Name",
             "responses": {
                 "200": {
@@ -103,6 +106,7 @@
     "/allgames/platform/{platform}": {
         "get": {
             "summary": "Gets Video Games by Platform",
+            "tags": ["Paths"],
             "responses": {
                 "200": {
                     "description": "OK",
@@ -125,6 +129,7 @@
     "/allgames/id/{id}": {
         "get": {
             "summary": "Gets Video Games by ID",
+            "tags": ["Paths"],
             "responses": {
                 "200": {
                     "description": "OK",
@@ -146,6 +151,7 @@
     },
     "/allgames/{id}": {
         "put": {
+            "tags": ["Update"],
             "summary": "Update Existing Entry for All Games",
             "consumes": "application/json",
             "parameters":[ 
@@ -175,8 +181,8 @@
                 }
             ],
             "responses": {
-                "201": {
-                    "description": "Created",
+                "200": {
+                    "description": "OK",
                     "schema": {
                         "type": "object",
                         "example": {
@@ -191,6 +197,7 @@
             }
         },
         "delete": {
+            "tags": ["Delete"],
             "summary": "Creates New Entry to All Games",
             "consumes": "application/json",
             "parameters":[ 
@@ -206,8 +213,8 @@
                 }
             ],
             "responses": {
-                "201": {
-                    "description": "Created",
+                "202": {
+                    "description": "Accepted",
                     "schema": {
                         "type": "object",
                         "example": {
@@ -222,8 +229,9 @@
             }
         }
     },
-    "/{console name}": {
+    "/{'Console Name' Ex: 'PS1', 'Nintendo'}": {
         "get": {
+            "tags": ["Paths"],
             "summary": "Lists Individule Console Games",
             "responses": {
                 "200": {
@@ -244,24 +252,29 @@
             }
         },
         "post": {
+            "tags": ["Post"]
 
         }
     },
-    "/{console name}/name/{name}": {
+    "/{Console Name}/name/{name}": {
         "get": {
+            "tags": ["Paths"]
 
         }
     },
-    "/{console name}/id/{id}": {
+    "/{Console Name}/id/{id}": {
         "get": {
+            "tags": ["Paths"]
 
         }
     },
-    "/{console name}/{id}": {
+    "/{Console Name}/{id}": {
         "put": {
+            "tags": ["Update"]
 
         },
         "delete": {
+            "tags": ["Delete"]
 
         }
     }
