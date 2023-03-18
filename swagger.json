@@ -10,7 +10,6 @@
 "basePath": "/",
 "consumes": ["application/json"],
 "produces": ["application/json"],
-"apis": ["${__dirname}/routes/*.js"],
 "paths": {
     "/allgames": {
         "get": {
@@ -34,7 +33,49 @@
             }
         },
         "post": {
-           
+            "summary": "Creates New Entry to All Games",
+            "consumes": "application/json",
+            "parameters":[ 
+                {
+                 "in": "body",
+                 "name": "body",
+                 "schema": {
+                    "type": "object",
+                    "properties": {
+                        "name": {
+                            "type": "String"
+                        },
+                        "platform": {
+                            "type": "String"
+                        },
+                        "developers": {
+                            "type": "String"
+                        },
+                        "releaseDate": {
+                            "type": "String"
+                        },
+                        "genres": {
+                            "type": "String"
+                        }
+                    }
+                 }
+                }
+            ],
+            "responses": {
+                "201": {
+                    "description": "Created",
+                    "schema": {
+                        "type": "object",
+                        "example": {
+                            "name": "Super Smash Bros",
+                            "platform": "Switch",
+                            "releaseDate": "Oct 13, 2020",
+                            "developers": "Nintendo",
+                            "genres": "['Action', 'Fighting', '2D']"
+                        }
+                    }
+                }
+            }
         }
     },
     "/allgames/{name}": {
