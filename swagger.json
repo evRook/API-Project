@@ -222,9 +222,9 @@
             }
         }
     },
-    "/atari": {
+    "/{console name}": {
         "get": {
-            "summary": "Lists Atari Games",
+            "summary": "Lists Individule Console Games",
             "responses": {
                 "200": {
                     "description": "OK",
@@ -242,9 +242,30 @@
                     }
                 }  
             }
+        },
+        "post": {
+
+        }
+    },
+    "/{console name}/name/{name}": {
+        "get": {
+
+        }
+    },
+    "/{console name}/id/{id}": {
+        "get": {
+
+        }
+    },
+    "/{console name}/{id}": {
+        "put": {
+
+        },
+        "delete": {
+
         }
     }
-    },
+  },
   "definitions": {
     "allgames": {
       "required": ["name", "_id"],
