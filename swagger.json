@@ -4,7 +4,7 @@
 "info": {
     "version": "1.0.0", 
     "title": "Video Game API",
-    "description": "My User Project Application API"
+    "description": "A Simple API to Store Video Game Data"
 },
 "host": "localhost:3000",
 "basePath": "/",
@@ -130,29 +130,6 @@
             }
         }
     },
-    "/allgames/platform/{platform}": {
-        "get": {
-            "summary": "Gets Video Games by Platform",
-            "tags": ["Paths"],
-            "responses": {
-                "200": {
-                    "description": "OK",
-                    "schema":{
-                        "type": "object",
-                        "example": {
-                            "name": "Acid Drop",
-                            "platform": "Atari",
-                            "developers": "Dennis Kiss[11]",
-                            "publisher": "Salu Ltd",
-                            "releaseDate": "1992",
-                            "genres": "Strategy",
-                            "notes": "PAL-only; puzzle game; last game released. Atari 2600s stopped being manufactured"
-                        }
-                    }
-                }  
-            }
-        }
-    },
     "/allgames/id/{id}": {
         "get": {
             "summary": "Gets Video Games by ID",
@@ -183,7 +160,16 @@
             "consumes": "application/json",
             "parameters":[ 
                 {
+                 "in": "path",
+                 "required": true,
+                 "schema": {
+                    "type": "interger",
+                    "minimum": 1
+                 }
+                },
+                {
                  "in": "body",
+                 "required": true,
                  "name": "body",
                  "schema": {
                     "type": "object",
@@ -225,7 +211,7 @@
         },
         "delete": {
             "tags": ["Delete"],
-            "summary": "Creates New Entry to All Games",
+            "summary": "Deletes Entry to All Games",
             "consumes": "application/json",
             "parameters":[ 
                 {
