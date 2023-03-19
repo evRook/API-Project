@@ -455,6 +455,180 @@
           }
         }
       },
+      "atari": {
+        "properties": {
+          "_id": {
+            "type": "integer",
+            "uniqueItems": true
+          },
+          "name": {
+            "type": "string"
+          },
+          "platform": {
+            "type": "string"
+          },
+          "developers": {
+            "type": "string"
+          },
+          "releaseDate": {
+              "type": "string"
+          },
+          "genres": {
+              "type": "string"
+          }
+          },
+          "companies": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "ps1": {
+            "properties": {
+              "_id": {
+                "type": "integer",
+                "uniqueItems": true
+              },
+              "name": {
+                "type": "string"
+              },
+              "platform": {
+                "type": "string"
+              },
+              "developers": {
+                "type": "string"
+              },
+              "releaseDate": {
+                  "type": "string"
+              },
+              "genres": {
+                  "type": "string"
+              }
+              },
+              "companies": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              }
+        },
+        "ps2": {
+            "properties": {
+                "_id": {
+                "type": "integer",
+                "uniqueItems": true
+                },
+                "name": {
+                "type": "string"
+                },
+                "platform": {
+                "type": "string"
+                },
+                "developers": {
+                "type": "string"
+                },
+                "releaseDate": {
+                    "type": "string"
+                },
+                "genres": {
+                    "type": "string"
+                }
+                },
+                "companies": {
+                "type": "array",
+                "items": {
+                    "type": "string"
+                }
+            }
+        },
+        "ps4": {
+            "properties": {
+                "_id": {
+                "type": "integer",
+                "uniqueItems": true
+                },
+                "name": {
+                "type": "string"
+                },
+                "platform": {
+                "type": "string"
+                },
+                "developers": {
+                "type": "string"
+                },
+                "releaseDate": {
+                    "type": "string"
+                },
+                "genres": {
+                    "type": "string"
+                }
+                },
+                "companies": {
+                "type": "array",
+                "items": {
+                    "type": "string"
+                }
+            }
+        },
+        "nintendo": {
+            "properties": {
+                "_id": {
+                "type": "integer",
+                "uniqueItems": true
+                },
+                "name": {
+                "type": "string"
+                },
+                "platform": {
+                "type": "string"
+                },
+                "developers": {
+                "type": "string"
+                },
+                "releaseDate": {
+                    "type": "string"
+                },
+                "genres": {
+                    "type": "string"
+                }
+                },
+                "companies": {
+                "type": "array",
+                "items": {
+                    "type": "string"
+                }
+            }
+        },
+        "xbox": {
+            "properties": {
+                "_id": {
+                "type": "integer",
+                "uniqueItems": true
+                },
+                "name": {
+                "type": "string"
+                },
+                "platform": {
+                "type": "string"
+                },
+                "developers": {
+                "type": "string"
+                },
+                "releaseDate": {
+                    "type": "string"
+                },
+                "genres": {
+                    "type": "string"
+                }
+                },
+                "companies": {
+                "type": "array",
+                "items": {
+                    "type": "string"
+                }
+            }
+        }
     }
   
 }
