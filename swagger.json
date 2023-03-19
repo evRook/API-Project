@@ -252,8 +252,50 @@
             }
         },
         "post": {
-            "tags": ["Post"]
-
+            "tags": ["Post"],
+            "summary": "Creates New Entry to Specific Console Path",
+            "consumes": "application/json",
+            "parameters":[ 
+                {
+                 "in": "body",
+                 "name": "body",
+                 "schema": {
+                    "type": "object",
+                    "properties": {
+                        "name": {
+                            "type": "String"
+                        },
+                        "platform": {
+                            "type": "String"
+                        },
+                        "developers": {
+                            "type": "String"
+                        },
+                        "releaseDate": {
+                            "type": "String"
+                        },
+                        "genres": {
+                            "type": "String"
+                        }
+                    }
+                }
+            }
+        ],
+        "responses": {
+            "200": {
+                "description": "OK",
+                "schema": {
+                    "type": "object",
+                    "example": {
+                        "name": "Super Smash Bros",
+                        "platform": "Switch",
+                        "releaseDate": "Oct 13, 2020",
+                        "developers": "Nintendo",
+                        "genres": "['Action', 'Fighting', '2D']"
+                    }
+                }
+            }
+        }    
         }
     },
     "/{Console Name}/name/{name}": {
