@@ -20,21 +20,48 @@
                     "description": "OK",
                     "schema":{
                         "type": "object",
-                        "example": {
-                            "name": "Acid Drop",
-                            "platform": "Atari",
-                            "developers": "Dennis Kiss[11]",
-                            "publisher": "Salu Ltd",
-                            "releaseDate": "1992",
-                            "genres": "Strategy",
-                            "notes": "PAL-only; puzzle game; last game released. Atari 2600s stopped being manufactured"
-                        }
+                        "example": [
+                            { 
+                              "_id": "641380184e69661ee7e5f0ea",
+                              "": 507,
+                              "name": "Chaos Field: New Order",
+                              "platform": "Playstation 2",
+                              "developers": "MileStone Inc.",
+                              "publisher": "MileStone Inc.",
+                              "link": "",
+                              "releaseDate": "2005-12-15JP",
+                              "JP": "Released",
+                              "EU/PAL": "Unreleased",
+                              "NA": "Unreleased"
+                            },
+                            {
+                              "name": "Acid Drop",
+                              "platform": "Atari",
+                              "developers": "Dennis Kiss[11]",
+                              "publisher": "Salu Ltd",
+                              "releaseDate": "1992",
+                              "genres": "Strategy",
+                              "notes": "PAL-only; puzzle game; last game released. Atari 2600s stopped being manufactured"
+                            },
+                            {
+                              "_id": "641380184e69661ee7e5e379",
+                              "meta_score": "",
+                              "name": "Super Mario 3D World + Bowser's Fury",
+                              "platform": "Switch",
+                              "releaseDate": "Feb 12, 2021",
+                              "user_score": "",
+                              "link": "/game/switch/super-mario-3d-world-+-bowsers-fury",
+                              "esrb_rating": "",
+                              "developers": "['Nintendo']",
+                              "genres": "['Action', 'Platformer', '3D']"
+                            }
+                      ]
                     }
                 }  
             }
         },
         "post": {
-            "tags": ["Post"],
+            "tags": ["Create"],
             "summary": "Creates New Entry to All Games",
             "consumes": "application/json",
             "parameters":[ 
@@ -229,79 +256,59 @@
             }
         }
     },
-    "/{'Console Name' Ex: 'PS1', 'Nintendo'}": {
+    "/atari": {
         "get": {
             "tags": ["Paths"],
-            "summary": "Lists Individule Console Games",
+            "summary": "Lists Atari Games",
             "responses": {
                 "200": {
                     "description": "OK",
                     "schema":{
                         "type": "object",
-                        "example": {
-                            "name": "Acid Drop",
-                            "platform": "Atari",
-                            "developers": "Dennis Kiss[11]",
-                            "publisher": "Salu Ltd",
-                            "releaseDate": "1992",
-                            "genres": "Strategy",
-                            "notes": "PAL-only; puzzle game; last game released. Atari 2600s stopped being manufactured"
-                        }
+                        "example": [
+                              {
+                                "_id": "641380184e69661ee7e5e1f4",
+                                "": 0,
+                                "name": "Acid Drop",
+                                "platform": "Atari",
+                                "developers": "Dennis Kiss[11]",
+                                "publisher": "Salu Ltd",
+                                "releaseDate": "1992",
+                                "genres": "Strategy",
+                                "notes": "PAL-only; puzzle game; last game released. Atari 2600s stopped being manufactured"
+                              },
+                              {
+                                "_id": "641380184e69661ee7e5e1f5",
+                                "": 1,
+                                "name": "The Activision Decathlon",
+                                "platform": "Atari",
+                                "developers": "Activision (David Crane)",
+                                "publisher": "Activision",
+                                "releaseDate": "1983",
+                                "genres": "Sports",
+                                "notes": ""
+                              },
+                              {
+                                "_id": "641380184e69661ee7e5e1f6",
+                                "": 2,
+                                "name": "Adventures of Tron",
+                                "platform": "Atari",
+                                "developers": "APh Technological Consulting",
+                                "publisher": "M Network",
+                                "releaseDate": "1982",
+                                "genres": "Action",
+                                "notes": ""
+                              }
+                        ]
                     }
                 }  
             }
-        },
-        "post": {
-            "tags": ["Post"],
-            "summary": "Creates New Entry to Specific Console Path",
-            "consumes": "application/json",
-            "parameters":[ 
-                {
-                 "in": "body",
-                 "name": "body",
-                 "schema": {
-                    "type": "object",
-                    "properties": {
-                        "name": {
-                            "type": "String"
-                        },
-                        "platform": {
-                            "type": "String"
-                        },
-                        "developers": {
-                            "type": "String"
-                        },
-                        "releaseDate": {
-                            "type": "String"
-                        },
-                        "genres": {
-                            "type": "String"
-                        }
-                    }
-                }
-            }
-        ],
-        "responses": {
-            "200": {
-                "description": "OK",
-                "schema": {
-                    "type": "object",
-                    "example": {
-                        "name": "Super Smash Bros",
-                        "platform": "Switch",
-                        "releaseDate": "Oct 13, 2020",
-                        "developers": "Nintendo",
-                        "genres": "['Action', 'Fighting', '2D']"
-                    }
-                }
-            }
-        }    
         }
     },
-    "/{Console Name}/name/{name}": {
+    "/atari/name/{name}": {
         "get": {
             "tags": ["Paths"],
-            "summary": "Gets Specific Console Games by Name",
+            "summary": "Gets Atari Games by Name",
             "responses": {
                 "200": {
                     "description": "OK",
@@ -321,10 +328,10 @@
             }
         }
     },
-    "/{Console Name}/id/{id}": {
+    "/atari/id/{id}": {
         "get": {
             "tags": ["Paths"],
-            "summary": "Gets Video Games by ID",
+            "summary": "Gets Atari Games by ID",
             "responses": {
                 "200": {
                     "description": "OK",
@@ -344,83 +351,593 @@
             }
         }
     },
-    "/{'Console Name' Ex: 'PS1', 'Nintendo'}/{id}": {
-        "put": {
-            "tags": ["Update"],
-            "summary": "Update Existing Entry for Specific Console Path",
-            "consumes": "application/json",
-            "parameters":[ 
-                {
-                 "in": "body",
-                 "name": "body",
-                 "schema": {
-                    "type": "object",
-                    "properties": {
-                        "name": {
-                            "type": "String"
-                        },
-                        "platform": {
-                            "type": "String"
-                        },
-                        "developers": {
-                            "type": "String"
-                        },
-                        "releaseDate": {
-                            "type": "String"
-                        },
-                        "genres": {
-                            "type": "String"
-                        }
-                    }
-                 }
-                }
-            ],
+    "/nintendo": {
+        "get": {
+            "tags": ["Paths"],
+            "summary": "Lists Nintendo Games",
             "responses": {
                 "200": {
                     "description": "OK",
-                    "schema": {
+                    "schema":{
                         "type": "object",
-                        "example": {
-                            "name": "Super Smash Bros",
-                            "platform": "Switch",
-                            "releaseDate": "Oct 13, 2020",
-                            "developers": "Nintendo",
-                            "genres": "['Action', 'Fighting', '2D']"
-                        }
+                        "example": [
+                              {
+                                "_id": "641380184e69661ee7e5e379",
+                                "meta_score": "",
+                                "name": "Super Mario 3D World + Bowser's Fury",
+                                "platform": "Switch",
+                                "releaseDate": "Feb 12, 2021",
+                                "user_score": "",
+                                "link": "/game/switch/super-mario-3d-world-+-bowsers-fury",
+                                "esrb_rating": "",
+                                "developers": "['Nintendo']",
+                                "genres": "['Action', 'Platformer', '3D']"
+                              },
+                              {
+                                "_id": "641380184e69661ee7e5e37a",
+                                "meta_score": "",
+                                "name": "Super Smash Bros. Ultimate: Sephiroth",
+                                "platform": "Switch",
+                                "releaseDate": "Dec 22, 2020",
+                                "user_score": "",
+                                "link": "/game/switch/super-smash-bros-ultimate-sephiroth",
+                                "esrb_rating": "",
+                                "developers": "['Nintendo']",
+                                "genres": "['Action', '2D', 'Fighting']"
+                              },
+                              {
+                                "_id": "641380184e69661ee7e5e37b",
+                                "meta_score": 66,
+                                "name": "Fitness Boxing 2: Rhythm & Exercise",
+                                "platform": "Switch",
+                                "releaseDate": "Dec 4, 2020",
+                                "user_score": 6.2,
+                                "link": "/game/switch/fitness-boxing-2-rhythm-exercise",
+                                "esrb_rating": "E",
+                                "developers": "['Nintendo', ' Imagineer Co.', 'Ltd.']",
+                                "genres": "['Miscellaneous', 'Exercise / Fitness']"
+                              }
+                        ]
                     }
-                }
+                }  
             }
-        },
-        "delete": {
-            "tags": ["Delete"],
-            "summary": "Removes Entry From Specific Console Path",
-            "consumes": "application/json",
-            "parameters":[ 
-                {
-                 "in": "path",
-
-                 "required": true,
-                 "schema": {
-                    "type": "interger",
-                    "minimum": 1
-                 },
-                 "description": "Game '_id'"
-                }
-            ],
+        }
+    },
+    "/nintendo/name/{name}": {
+        "get": {
+            "tags": ["Paths"],
+            "summary": "Gets Nintendo Games by Name",
             "responses": {
-                "202": {
-                    "description": "Accepted",
-                    "schema": {
+                "200": {
+                    "description": "OK",
+                    "schema":{
                         "type": "object",
                         "example": {
-                            "name": "Super Smash Bros",
-                            "platform": "Switch",
-                            "releaseDate": "Oct 13, 2020",
-                            "developers": "Nintendo",
-                            "genres": "['Action', 'Fighting', '2D']"
+                            "_id": "641380184e69661ee7e5e379",
+                                "meta_score": "",
+                                "name": "Super Mario 3D World + Bowser's Fury",
+                                "platform": "Switch",
+                                "releaseDate": "Feb 12, 2021",
+                                "user_score": "",
+                                "link": "/game/switch/super-mario-3d-world-+-bowsers-fury",
+                                "esrb_rating": "",
+                                "developers": "['Nintendo']",
+                                "genres": "['Action', 'Platformer', '3D']"
                         }
                     }
-                }
+                }  
+            }
+        }
+    },
+    "/nintendo/id/{id}": {
+        "get": {
+            "tags": ["Paths"],
+            "summary": "Gets Nintendo Games by ID",
+            "responses": {
+                "200": {
+                    "description": "OK",
+                    "schema":{
+                        "type": "object",
+                        "example": {
+                            "_id": "641380184e69661ee7e5e379",
+                                "meta_score": "",
+                                "name": "Super Mario 3D World + Bowser's Fury",
+                                "platform": "Switch",
+                                "releaseDate": "Feb 12, 2021",
+                                "user_score": "",
+                                "link": "/game/switch/super-mario-3d-world-+-bowsers-fury",
+                                "esrb_rating": "",
+                                "developers": "['Nintendo']",
+                                "genres": "['Action', 'Platformer', '3D']"
+                        }
+                    }
+                }  
+            }
+        }
+    },
+    "/ps1": {
+        "get": {
+            "tags": ["Paths"],
+            "summary": "Lists Playstation 1 Games",
+            "responses": {
+                "200": {
+                    "description": "OK",
+                    "schema":{
+                        "type": "object",
+                        "example": [
+                               {
+                                "_id": "641380184e69661ee7e5e94f",
+                                "": 468,
+                                "name": "Captain Tsubasa J: Get In The Tomorrow",
+                                "platform": "Playstation 1",
+                                "developers": "Bandai",
+                                "publisher(s)": "Bandai",
+                                "releaseDate": "May 3, 1996",
+                                "regions released__1": "Unreleased",
+                                "regions released__2": "Unreleased",
+                                "ref.": ""
+                              },
+                              {
+                                "_id": "641380184e69661ee7e5e950",
+                                "": 469,
+                                "name": "Car & Driver Presents: Grand Tour Racing '98•Total DrivinPAL",
+                                "platform": "Playstation 1",
+                                "developers": "Eutechnyx",
+                                "publisher(s)": "ActivisionNA, Ocean SoftwarePAL, AtlusJP",
+                                "releaseDate": "April 23, 1998",
+                                "regions released__1": "November 1997",
+                                "regions released__2": "September 30, 1997",
+                                "ref.": ""
+                              },
+                              {
+                                "_id": "641380184e69661ee7e5e951",
+                                "": 470,
+                                "name": "Card Games•Simple 1500 Series Vol. 44: The Card 2JP",
+                                "platform": "Playstation 1",
+                                "developers": "Amedio",
+                                "publisher(s)": "JP D3, NA Agetec Inc.",
+                                "releaseDate": "October 26, 2000",
+                                "regions released__1": "Unreleased",
+                                "regions released__2": "August 28, 2001",
+                                "ref.": ""
+                              }
+                        ]
+                    }
+                }  
+            }
+        }
+    },
+    "/ps1/name/{name}": {
+        "get": {
+            "tags": ["Paths"],
+            "summary": "Gets Playstation 1 Games by Name",
+            "responses": {
+                "200": {
+                    "description": "OK",
+                    "schema":{
+                        "type": "object",
+                        "example": {
+                            "_id": "641380184e69661ee7e5e94f",
+                                "": 468,
+                                "name": "Captain Tsubasa J: Get In The Tomorrow",
+                                "platform": "Playstation 1",
+                                "developers": "Bandai",
+                                "publisher(s)": "Bandai",
+                                "releaseDate": "May 3, 1996",
+                                "regions released__1": "Unreleased",
+                                "regions released__2": "Unreleased",
+                                "ref.": ""
+                        }
+                    }
+                }  
+            }
+        }
+    },
+    "/ps1/id/{id}": {
+        "get": {
+            "tags": ["Paths"],
+            "summary": "Gets Playstation 1 Games by ID",
+            "responses": {
+                "200": {
+                    "description": "OK",
+                    "schema":{
+                        "type": "object",
+                        "example": {
+                            "_id": "641380184e69661ee7e5e94f",
+                                "": 468,
+                                "name": "Captain Tsubasa J: Get In The Tomorrow",
+                                "platform": "Playstation 1",
+                                "developers": "Bandai",
+                                "publisher(s)": "Bandai",
+                                "releaseDate": "May 3, 1996",
+                                "regions released__1": "Unreleased",
+                                "regions released__2": "Unreleased",
+                                "ref.": ""
+                        }
+                    }
+                }  
+            }
+        }
+    },
+    "/ps2": {
+        "get": {
+            "tags": ["Paths"],
+            "summary": "Lists Playstation 2 Games",
+            "responses": {
+                "200": {
+                    "description": "OK",
+                    "schema":{
+                        "type": "object",
+                        "example": [
+                            {
+                                "_id": "641380184e69661ee7e5f12a",
+                                "": 571,
+                                "name": "Code of the Samurai",
+                                "platform": "Playstation 2",
+                                "developers": "Red Entertainment",
+                                "publisher": "SegaJP, Midas Interactive EntertainmentEU",
+                                "link": "",
+                                "releaseDate": "2005-02-10JP",
+                                "JP": "Released",
+                                "EU/PAL": "Released",
+                                "NA": "Unreleased"
+                            },
+                            {
+                                "_id": "641380184e69661ee7e5f12b",
+                                "": 572,
+                                "name": "Codename: Kids Next Door",
+                                "platform": "Playstation 2",
+                                "developers": "High Voltage Software",
+                                "publisher": "Global Star Software",
+                                "link": "",
+                                "releaseDate": "2005-10-11NA",
+                                "JP": "Unreleased",
+                                "EU/PAL": "Released",
+                                "NA": "Released"
+                            },
+                            {
+                                "_id": "641380184e69661ee7e5f12c",
+                                "": 573,
+                                "name": "Cold Fear",
+                                "platform": "Playstation 2",
+                                "developers": "Darkworks",
+                                "publisher": "Ubisoft",
+                                "link": "",
+                                "releaseDate": "2005-03-04EU",
+                                "JP": "Unreleased",
+                                "EU/PAL": "Released",
+                                "NA": "Released"
+                            }
+                        ]
+                    }
+                }  
+            }
+        }
+    },
+    "/ps2/name/{name}": {
+        "get": {
+            "tags": ["Paths"],
+            "summary": "Gets Playstation 2 Games by Name",
+            "responses": {
+                "200": {
+                    "description": "OK",
+                    "schema":{
+                        "type": "object",
+                        "example": {
+                            "_id": "641380184e69661ee7e5f12a",
+                                "": 571,
+                                "name": "Code of the Samurai",
+                                "platform": "Playstation 2",
+                                "developers": "Red Entertainment",
+                                "publisher": "SegaJP, Midas Interactive EntertainmentEU",
+                                "link": "",
+                                "releaseDate": "2005-02-10JP",
+                                "JP": "Released",
+                                "EU/PAL": "Released",
+                                "NA": "Unreleased"
+                        }
+                    }
+                }  
+            }
+        }
+    },
+    "/ps2/id/{id}": {
+        "get": {
+            "tags": ["Paths"],
+            "summary": "Gets Playstation 2 Games by ID",
+            "responses": {
+                "200": {
+                    "description": "OK",
+                    "schema":{
+                        "type": "object",
+                        "example": {
+                            "_id": "641380184e69661ee7e5f12a",
+                                "": 571,
+                                "name": "Code of the Samurai",
+                                "platform": "Playstation 2",
+                                "developers": "Red Entertainment",
+                                "publisher": "SegaJP, Midas Interactive EntertainmentEU",
+                                "link": "",
+                                "releaseDate": "2005-02-10JP",
+                                "JP": "Released",
+                                "EU/PAL": "Released",
+                                "NA": "Unreleased"
+                        }
+                    }
+                }  
+            }
+        }
+    },
+    "/ps4": {
+        "get": {
+            "tags": ["Paths"],
+            "summary": "Lists Playstation 4 Games",
+            "responses": {
+                "200": {
+                    "description": "OK",
+                    "schema":{
+                        "type": "object",
+                        "example": [
+                            {
+                                "_id": "641380184e69661ee7e5f6e0",
+                                "gamePSID": 3045,
+                                "name": "Q*Bert Rebooted",
+                                "publisher": "LOOT Interactive",
+                                "releaseYear": 2015,
+                                "releaseDate": "2015-02-17",
+                                "developers": "Gonzo Games",
+                                "platform": "Playstation 4",
+                                "genres": "Action",
+                                "features": "PS Plus, PS Now",
+                                "size": 109,
+                                "medium": "",
+                                "hardware": "",
+                                "completionTime(Hours)": "nan",
+                                "is_Digital_game": 0,
+                                "is_Physical_game": 0,
+                                "link": "http://www.sidelineamusements.com/qbert/"
+                            },
+                            {
+                                "_id": "641380184e69661ee7e5f6e1",
+                                "gamePSID": 3051,
+                                "name": "Q*Bert Rebooted (EU)",
+                                "publisher": "LOOT Interactive",
+                                "releaseYear": 2015,
+                                "releaseDate": "2015-07-22",
+                                "developers": "LOOT Interactive",
+                                "platform": "Playstation 4",
+                                "genres": "Action",
+                                "features": "PS Now",
+                                "size": 127,
+                                "medium": "Digital only",
+                                "hardware": "",
+                                "completionTime(Hours)": "nan",
+                                "is_Digital_game": 0,
+                                "is_Physical_game": 0,
+                                "link": "http://www.sidelineamusements.com/qbert/"
+                            },
+                            {
+                                "_id": "641380184e69661ee7e5f6e2",
+                                "gamePSID": 6703,
+                                "name": "Q.U.B.E. 2",
+                                "publisher": "Trapped Nerve Games",
+                                "releaseYear": 2018,
+                                "releaseDate": "2018-03-13",
+                                "developers": "Toxic Games",
+                                "platform": "Playstation 4",
+                                "genres": "Puzzle, Platformer",
+                                "features": "",
+                                "size": 2682.88,
+                                "medium": "Digital only",
+                                "hardware": "",
+                                "completionTime(Hours)": "nan",
+                                "is_Digital_game": 0,
+                                "is_Physical_game": 0,
+                                "link": "http://qube-game.com/"
+                            }
+                        ]
+                    }
+                }  
+            }
+        }
+    },
+    "/ps4/name/{name}": {
+        "get": {
+            "tags": ["Paths"],
+            "summary": "Gets Playstation 4 Games by Name",
+            "responses": {
+                "200": {
+                    "description": "OK",
+                    "schema":{
+                        "type": "object",
+                        "example": {
+                            "_id": "641380184e69661ee7e5f6e0",
+                                "gamePSID": 3045,
+                                "name": "Q*Bert Rebooted",
+                                "publisher": "LOOT Interactive",
+                                "releaseYear": 2015,
+                                "releaseDate": "2015-02-17",
+                                "developers": "Gonzo Games",
+                                "platform": "Playstation 4",
+                                "genres": "Action",
+                                "features": "PS Plus, PS Now",
+                                "size": 109,
+                                "medium": "",
+                                "hardware": "",
+                                "completionTime(Hours)": "nan",
+                                "is_Digital_game": 0,
+                                "is_Physical_game": 0,
+                                "link": "http://www.sidelineamusements.com/qbert/"
+                        }
+                    }
+                }  
+            }
+        }
+    },
+    "/ps4/id/{id}": {
+        "get": {
+            "tags": ["Paths"],
+            "summary": "Gets Playstation 4 Games by ID",
+            "responses": {
+                "200": {
+                    "description": "OK",
+                    "schema":{
+                        "type": "object",
+                        "example": {
+                            "_id": "641380184e69661ee7e5f6e0",
+                                "gamePSID": 3045,
+                                "name": "Q*Bert Rebooted",
+                                "publisher": "LOOT Interactive",
+                                "releaseYear": 2015,
+                                "releaseDate": "2015-02-17",
+                                "developers": "Gonzo Games",
+                                "platform": "Playstation 4",
+                                "genres": "Action",
+                                "features": "PS Plus, PS Now",
+                                "size": 109,
+                                "medium": "",
+                                "hardware": "",
+                                "completionTime(Hours)": "nan",
+                                "is_Digital_game": 0,
+                                "is_Physical_game": 0,
+                                "link": "http://www.sidelineamusements.com/qbert/"
+                        }
+                    }
+                }  
+            }
+        }
+    },
+    "/xbox": {
+        "get": {
+            "tags": ["Paths"],
+            "summary": "Lists Xbox Games",
+            "responses": {
+                "200": {
+                    "description": "OK",
+                    "schema":{
+                        "type": "object",
+                        "example": [
+                            {
+                                "_id": "641380184e69661ee7e61cb6",
+                                "gameid": 5530,
+                                "name": "Q",
+                                "link": "http://liica.co.jp/contents/q/jp/x.html",
+                                "publisher": "liica",
+                                "developers": "liica, OrangeBox",
+                                "releaseDate": "26 June 2015",
+                                "platform": "Xbox One",
+                                "genres": "Puzzle",
+                                "hardware": "Kinect Enabled",
+                                "notes": "ID@Xbox",
+                                "medium": "Digital only",
+                                "size": "515MB",
+                                "completion est": "80-100 hours",
+                                "links": "Official site",
+                                "features": ""
+                            },
+                            {
+                                "_id": "641380184e69661ee7e61cb7",
+                                "gameid": 5819,
+                                "name": "Q*bert REBOOTED: The XBOX One @!#?@! Edition",
+                                "link": "",
+                                "publisher": "GPC",
+                                "developers": "LOOT Interactive",
+                                "releaseDate": "12 February 2016",
+                                "platform": "Xbox One, Xbox Series X|S",
+                                "genres": "Action",
+                                "hardware": "",
+                                "notes": "ID@Xbox",
+                                "medium": "Digital only",
+                                "size": "501MB",
+                                "completion est": "",
+                                "links": "",
+                                "features": ""
+                            },
+                            {
+                                "_id": "641380184e69661ee7e61cb8",
+                                "gameid": 6951,
+                                "name": "Q.U.B.E. 2",
+                                "link": "https://www.toxicgames.co.uk/qube2/",
+                                "publisher": "Trapped Nerve Games",
+                                "developers": "Toxic Games",
+                                "releaseDate": "13 March 2018",
+                                "platform": "Xbox One, Xbox Series X|S",
+                                "genres": "Puzzle, Platformer",
+                                "hardware": "",
+                                "notes": "ID@Xbox",
+                                "medium": "Digital only",
+                                "size": "2.73GB",
+                                "completion est": "6-8 hours",
+                                "links": "Official site",
+                                "features": "Xbox One X Enhanced, 4K"
+                            }
+                        ]
+                    }
+                }  
+            }
+        }
+    },
+    "/xbox/name/{name}": {
+        "get": {
+            "tags": ["Paths"],
+            "summary": "Gets Playstation 4 Games by Name",
+            "responses": {
+                "200": {
+                    "description": "OK",
+                    "schema":{
+                        "type": "object",
+                        "example": {
+                            "_id": "641380184e69661ee7e61cb6",
+                            "gameid": 5530,
+                            "name": "Q",
+                            "link": "http://liica.co.jp/contents/q/jp/x.html",
+                            "publisher": "liica",
+                            "developers": "liica, OrangeBox",
+                            "releaseDate": "26 June 2015",
+                            "platform": "Xbox One",
+                            "genres": "Puzzle",
+                            "hardware": "Kinect Enabled",
+                            "notes": "ID@Xbox",
+                            "medium": "Digital only",
+                            "size": "515MB",
+                            "completion est": "80-100 hours",
+                            "links": "Official site",
+                            "features": ""
+                        }
+                    }
+                }  
+            }
+        }
+    },
+    "/xbox/id/{id}": {
+        "get": {
+            "tags": ["Paths"],
+            "summary": "Gets Xbox Games by ID",
+            "responses": {
+                "200": {
+                    "description": "OK",
+                    "schema":{
+                        "type": "object",
+                        "example": {
+                            "_id": "641380184e69661ee7e61cb6",
+                            "gameid": 5530,
+                            "name": "Q",
+                            "link": "http://liica.co.jp/contents/q/jp/x.html",
+                            "publisher": "liica",
+                            "developers": "liica, OrangeBox",
+                            "releaseDate": "26 June 2015",
+                            "platform": "Xbox One",
+                            "genres": "Puzzle",
+                            "hardware": "Kinect Enabled",
+                            "notes": "ID@Xbox",
+                            "medium": "Digital only",
+                            "size": "515MB",
+                            "completion est": "80-100 hours",
+                            "links": "Official site",
+                            "features": ""
+                        }
+                    }
+                }  
             }
         }
     }
@@ -470,74 +987,86 @@
           "developers": {
             "type": "string"
           },
+          "publishers": {
+            "type": "string"
+          },
           "releaseDate": {
               "type": "string"
           },
           "genres": {
               "type": "string"
-          }
           },
-          "companies": {
-            "type": "array",
-            "items": {
-              "type": "string"
-            }
+          "notes": {
+            "type": "string"
+          }
           }
         },
         "ps1": {
             "properties": {
-              "_id": {
-                "type": "integer",
-                "uniqueItems": true
-              },
-              "name": {
-                "type": "string"
-              },
-              "platform": {
-                "type": "string"
-              },
-              "developers": {
-                "type": "string"
-              },
-              "releaseDate": {
-                  "type": "string"
-              },
-              "genres": {
-                  "type": "string"
-              }
-              },
-              "companies": {
-                "type": "array",
-                "items": {
-                  "type": "string"
-                }
-              }
-        },
-        "ps2": {
-            "properties": {
                 "_id": {
-                "type": "integer",
-                "uniqueItems": true
+                    "type": "integer",
+                    "uniqueItems": true
+                },
+                "": {
+                    "type": "number"
                 },
                 "name": {
-                "type": "string"
+                    "type": "string"
                 },
                 "platform": {
-                "type": "string"
+                    "type": "string"
                 },
                 "developers": {
-                "type": "string"
+                    "type": "string"
+                },
+                "publisher(s)": {
+                    "type": "string"
                 },
                 "releaseDate": {
                     "type": "string"
                 },
-                "genres": {
+                "regions released__1": {
                     "type": "string"
-                }
                 },
-                "companies": {
-                "type": "array",
-                "items": {
+                "regions released__2": {
+                    "type": "string"
+                },
+                "ref": {
+                    "type": ["array"]
+                }
+            }
+        },
+        "ps2": {
+            "properties": {
+                "_id": {
+                    "type": "integer",
+                    "uniqueItems": true
+                },
+                "name": {
+                    "type": "string"
+                },
+                "platform": {
+                    "type": "string"
+                },
+                "developers": {
+                    "type": "string"
+                },
+                "publishers": {
+                    "type": "string"
+                },
+                "link": {
+                    "type": "string"
+                },
+                "releaseDate": {
+                    "type": "string"
+                },
+                "JP": {
+                    "type": "string"
+                },
+                "EU/PAL": {
+                    "type": "string"
+                },
+                "NA": {
                     "type": "string"
                 }
             }
@@ -545,28 +1074,55 @@
         "ps4": {
             "properties": {
                 "_id": {
-                "type": "integer",
-                "uniqueItems": true
+                    "type": "integer",
+                    "uniqueItems": true
+                },
+                "gamePSID": {
+                    "type": "number"
                 },
                 "name": {
-                "type": "string"
+                    "type": "string"
                 },
-                "platform": {
-                "type": "string"
+                "publisher": {
+                    "type": "string"
                 },
-                "developers": {
-                "type": "string"
+                "releaseYear": {
+                    "type": "number"
                 },
                 "releaseDate": {
+                    "type": "number"
+                },
+                "developers": {
+                    "type": "string"
+                },
+                "platform": {
                     "type": "string"
                 },
                 "genres": {
                     "type": "string"
-                }
                 },
-                "companies": {
-                "type": "array",
-                "items": {
+                "features": {
+                    "type": "string"
+                },
+                "size": {
+                    "type": "number"
+                },
+                "medium": {
+                    "type": "string"
+                },
+                "hardware": {
+                    "type": "string"
+                },
+                "completionTime(hours)": {
+                    "type": "string"
+                },
+                "is_Digital_game": {
+                    "type": "number"
+                },
+                "is_Physical_game": {
+                    "type": "number"
+                },
+                "link": {
                     "type": "string"
                 }
             }
@@ -574,28 +1130,34 @@
         "nintendo": {
             "properties": {
                 "_id": {
-                "type": "integer",
-                "uniqueItems": true
+                    "type": "integer",
+                "   uniqueItems": true
+                },
+                "meta_score": {
+                    "type": "string"
                 },
                 "name": {
-                "type": "string"
+                    "type": "string"
                 },
                 "platform": {
-                "type": "string"
-                },
-                "developers": {
-                "type": "string"
+                    "type": "string"
                 },
                 "releaseDate": {
                     "type": "string"
                 },
-                "genres": {
+                "user_score": {
                     "type": "string"
-                }
                 },
-                "companies": {
-                "type": "array",
-                "items": {
+                "link": {
+                    "type": "string"
+                },
+                "esrb_rating": {
+                    "type": "string"
+                },
+                "developers": {
+                    "type": "string"
+                },
+                "genres": {
                     "type": "string"
                 }
             }
@@ -603,28 +1165,52 @@
         "xbox": {
             "properties": {
                 "_id": {
-                "type": "integer",
-                "uniqueItems": true
+                    "type": "integer",
+                    "uniqueItems": true
+                },
+                "gameid": {
+                    "type": "number"
                 },
                 "name": {
-                "type": "string"
+                    "type": "string"
                 },
-                "platform": {
-                "type": "string"
+                "link": {
+                    "type": "string"
+                },
+                "publisher": {
+                    "type": "string"
                 },
                 "developers": {
-                "type": "string"
+                    "type": "string"
                 },
                 "releaseDate": {
                     "type": "string"
                 },
+                "platform": {
+                    "type": "string"
+                },
                 "genres": {
                     "type": "string"
-                }
                 },
-                "companies": {
-                "type": "array",
-                "items": {
+                "hardware": {
+                    "type": "string"
+                },
+                "notes": {
+                    "type": "string"
+                },
+                "medium": {
+                    "type": "string"
+                },
+                "size": {
+                    "type": "string"
+                },
+                "completion est": {
+                    "type": "string"
+                },
+                "links": {
+                    "type": "string"
+                },
+                "features": {
                     "type": "string"
                 }
             }
