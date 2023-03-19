@@ -1007,9 +1007,6 @@
                     "type": "integer",
                     "uniqueItems": true
                 },
-                "": {
-                    "type": "number"
-                },
                 "name": {
                     "type": "string"
                 },
@@ -1030,9 +1027,6 @@
                 },
                 "regions released__2": {
                     "type": "string"
-                },
-                "ref": {
-                    "type": ["array"]
                 }
             }
         },
