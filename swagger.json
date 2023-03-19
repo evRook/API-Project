@@ -344,7 +344,7 @@
             }
         }
     },
-    "/{Console Name}/{id}": {
+    "/{'Console Name' Ex: 'PS1', 'Nintendo'}/{id}": {
         "put": {
             "tags": ["Update"],
             "summary": "Update Existing Entry for Specific Console Path",
