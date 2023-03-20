@@ -102,7 +102,7 @@ $ node lib/app.js
 
 ### DELETE
 
-| Method | Request | Path |
+| Method | Path | Description |
 | --- | --- | --- |
 | `DELETE` | `/allgames/{id}` | Delete Entry in All Games |
 | `DELETE` | `/atari/{id}` | Delete Entry in Atari |
