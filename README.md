@@ -146,7 +146,7 @@ $ node lib/app.js
 
 - [Source Code](https://github.com/evRook/API-Project)
     - Fork and clone this repository
-    - Create a branch (`git checkout -b <your branch name here>`)
+    - Create a branch ```git checkout -b <your branch name here>```
     - Commit your changes
     - Push to the branch
     - Create a new Pull Request
